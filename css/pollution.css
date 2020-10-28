@@ -13,7 +13,7 @@ body, html {
 }
 
 /* parallax effect */
-.intro, .img2 {
+.intro, .img2, .img3, .img4 {
     position: relative;
     background-position: center;
     background-size: cover;
@@ -30,6 +30,15 @@ body, html {
 
 .img2 {
     background-image: url("../images/drain.jpg");
+    min-height: 40%;
+}
+
+.img3 {
+    background-image: url("https://i.pinimg.com/564x/a1/a5/53/a1a55392f18f25f7e881b0940e9aef3c.jpg");
+    min-height: 40%;
+}
+.img4{
+    background-image: url("https://fotcoh.org/wp-content/uploads/2018/03/Why-Clean-Water-Matters-.jpg");
     min-height: 40%;
 }
 
@@ -66,18 +75,23 @@ body, html {
     font-size: 27px;
     text-transform: uppercase;
 }
-
+ul{
+    list-style-type: none;
+}
 .para {
     text-align: center;
 }
-h2{
+
+h2 {
     text-align: center;
 }
+
 .h2_text {
     text-align: center;
     margin: 5% auto;
 }
-h3{
+
+h3 {
     margin-bottom: 3%;
     margin-left: 2%;
 }
@@ -131,28 +145,44 @@ h3{
 
 /* aboutus */
 /* images */
-
-.float_left_small{
+.float_left_small {
+    float: left;
+    width: 35%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+.float_left {
     float: left;
     width: 30%;
     margin-right: 5%;
     margin-bottom: 2%;
     margin-top: 1%;
-    border: solid 5px;
     border-radius: 30px;
 }
-.float_right_small{
+.hello{
+    width: 20%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+.float_right_small {
     float: right;
-    width: 30%;
+    width: 35%;
     margin-left: 5%;
     margin-bottom: 2%;
-    border: solid 5px;
     border-radius: 30px;
 }
-
-.major_causes{
+.image_gallery{
+    margin: 0 auto;
+    text-align: center;
+}
+.major_causes {
     margin-bottom: 13%;
 }
+
 .middle-container {
     width: 80%;
     margin: 5% auto;
@@ -165,55 +195,30 @@ h3{
     padding-bottom: 2rem;
     font-size: 20px;
 }
-.skill-row{
-    width: 70%;
-    margin: 6.25rem auto;
-    text-align: justify;
-    line-height: 2;
+.skill{
+    text-align: center;
 }
 
-.btn {
-    background: #00d5ff;
-    background-image: -webkit-linear-gradient(top, #00d5ff, #0066ff);
-    background-image: -moz-linear-gradient(top, #00d5ff, #0066ff);
-    background-image: -ms-linear-gradient(top, #00d5ff, #0066ff);
-    background-image: -o-linear-gradient(top, #00d5ff, #0066ff);
-    background-image: linear-gradient(to bottom, #00d5ff, #0066ff);
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
-    border-radius: 8px;
-    color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
-    text-decoration: none;
-}
 
-.btn:hover {
-    background: #0066ff;
-    background-image: -webkit-linear-gradient(top, #0066ff, #00bbff);
-    background-image: -moz-linear-gradient(top, #0066ff, #00bbff);
-    background-image: -ms-linear-gradient(top, #0066ff, #00bbff);
-    background-image: -o-linear-gradient(top, #0066ff, #00bbff);
-    background-image: linear-gradient(to bottom, #0066ff, #00bbff);
-    box-shadow: 0 10px 20px rgba(0, 208, 255, 0.5);
-    text-decoration: none;
-}
 .bottom-container {
-    background-color: rgba(0,123,255, .8);
+    background-color: rgba(0, 123, 255, .8);
     text-align: center;
     padding: 2% 0;
-
-
 }
+
+/* gallery */
+
 
 .footer-link {
     color: white;
     margin: 2rem;
     text-decoration: none;
 }
+
 .footer-link:hover {
     color: #fff;
 }
+
 .copy {
     background-color: #007bff;
     margin: 0;
