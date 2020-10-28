@@ -23,27 +23,27 @@ body,html{
     scroll = normal */
 }
 .img1{
-    background-image: url("drought.jpg");
+    background-image: url("../images/drought.jpg");
     min-height: 100%;
 }
 .img2{
-    background-image: url("water2.png");
+    background-image: url("../images/water2.png");
     min-height: 100%;
 }
 .img3{
-    background-image: url("green (1).jpg");
+    background-image: url("../images/green (1).jpg");
     min-height: 80%;
 }
 .img4{
-    background-image: url("beach.jpg");
+    background-image: url("../images/beach.jpg");
     min-height: 80%;
 }
 .img5{
-    background-image: url("waterdrop.jpg");
+    background-image: url("../images/waterdrop.jpg");
     min-height: 80%;
 }
 .text_sub_heading{
-    padding: 0 0 5%; 
+    padding: 0 0 5%;
 }
 /* section */
 .section{
