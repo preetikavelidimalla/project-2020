@@ -1,0 +1,318 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+/* parallax effect */
+.intro, .img2, .img3, .img4 {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* fixed = parallax
+    scroll = normal */
+}
+.image{
+    position: relative;
+    background-position: center;
+    width:60%;
+    margin-left: 200px;
+    margin-bottom:20px;
+    border-radius: 10px;;
+}
+
+.intro {
+    background-image: url("water.png");
+    min-height: 100%;
+}
+
+.img2 {
+    background-image: url("water5.png");
+    min-height: 40%;
+}
+
+.img3 {
+    background-image: url("https://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2016/04/14/as-india-reels-from-drought-govt-slammed-for-poor-policies/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1460693258533.jpg?ve=1");
+    min-height: 40%;
+}
+.img4{
+    background-image: url("water1.png");
+    min-height: 40%;
+}
+
+.para1{
+    text-align: center;
+    font-weight:bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.text_sub_heading {
+    padding: 0 0 3%;
+}
+
+/* section */
+.section {
+    padding: 3rem 3rem;
+    font-weight: bold;
+}
+
+.section-dark {
+    background-color: #282e34;
+    color: #ddd;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding: 2% 5%;
+}
+
+.withwater {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    text-transform: uppercase;
+}
+ul{
+    list-style-type: none;
+}
+.para {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.h2_text {
+    text-align: center;
+    margin: 5% auto;
+}
+
+h3 {
+    margin-bottom: 3%;
+    margin-left: 2%;
+}
+
+.main-text {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    color: #fff;
+    background-color: #007bff;
+    padding: 1% 3%;
+    border: 1px solid #007bff;
+    border-radius: 15px;
+}
+
+#features {
+    margin: 7rem 0;
+}
+
+.subheading {
+    font-size: 1.2rem;
+    width: 70%;
+    font-weight: bolder;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+/* navbar */
+.navbar {
+    background-color: rgba(0, 123, 255, 0.9);
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 0.5% 5%;
+}
+
+.nav-link {
+    margin: 10px;
+    color: black;
+}
+
+.dropdown-menu {
+    background-color: rgba(0, 123, 255, 0.5);
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+/* aboutus */
+/* images */
+.float_left_small {
+    float: left;
+    width: 35%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+.float_left {
+    float: left;
+    width: 30%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+.hello{
+    width: 20%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+    border-radius: 30px;
+}
+.float_right_small {
+    float: right;
+    width: 35%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    border-radius: 30px;
+}
+.image_gallery{
+    margin: 0 auto;
+    text-align: center;
+}
+.major_causes {
+    margin-bottom: 13%;
+}
+
+.middle-container {
+    width: 80%;
+    margin: 5% auto;
+}
+
+.causes {
+    text-align: justify;
+    display: inline-block;
+    line-height: 2;
+    padding-bottom: 2rem;
+    font-size: 20px;
+}
+.skill{
+    text-align: center;
+}
+
+
+.bottom-container {
+    background-color: rgba(0, 123, 255, .8);
+    text-align: center;
+    padding: 2% 0;
+}
+.reference{
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+    height: 40px;
+}
+
+/* gallery */
+
+
+.footer-link {
+    color: white;
+    margin: 2rem;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #fff;
+}
+
+.copy {
+    background-color: #007bff;
+    margin: 0;
+    text-align: center;
+    color: white;
+    padding: 1% 0;
+}
+
+.mySlides {
+    display:none;
+    margin-top: 50px;
+    margin-bottom:50px;
+    
+}
+#video{
+   vertical-align: middle;
+   width: 100%;
+   height: 400px;
+}
+.slideContainer {
+   max-width: 700px;
+   position: relative;
+   margin: auto;
+}
+.prevBtn,
+.nextBtn {
+   position: absolute;
+   top: 50%;
+   width: auto;
+   padding: 10px;
+   background-color:#282e34;;
+   color:#fff;
+   font-weight: bolder;
+   font-size: 18px;
+}
+.nextBtn {
+   right: 0;
+   border-radius:5px 0px 0px 5px;
+}
+
+.prevBtn{
+    border-radius:0px 5px 5px 0px;
+}
+.Navdot {
+   cursor: pointer;
+   height: 15px;
+   width: 15px;
+   margin: 0 2px;
+   background-color: rgb(54, 5, 117);
+   border-radius: 50%;
+   display: inline-block;
+   transition: background-color 0.6s ease;
+}
+.selected,
+.Navdot:hover {
+   background-color: #d9ff00;
+}
+.nextBtn:hover {
+    background: #fff;
+    color:#000;
+}
+.prevBtn:hover {
+    background: #fff;
+    color:#000;
+}
+@media only screen and (max-width: 450px) {
+   .prevBtn,
+   .nextBtn
+    {
+      font-size: 16px;
+   }
+}
+
+
+
+
