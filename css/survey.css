@@ -1,0 +1,51 @@
+body{
+  background-color: #bce6eb;
+  font-size: 20px;
+  line-height: 1.8;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.center{
+  text-align: center;
+  font-weight: bold;
+  font-size: 60px;
+  margin: 12% 0 5%;
+  color: #007bff;
+}
+
+/* navbar */
+.navbar{
+    background-color: rgba(0,123,255,0.9);
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 0.5% 5%;
+}
+.nav-link{
+    margin: 10px;
+    color: black;
+}
+.dropdown-menu{
+    background-color: rgba(0,123,255,0.5);
+}
+.dropdown-item{
+    color: #fff;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+
+.question-question{
+  font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+}
+.question-options{
+  position: relative;
+  left: 50px;
+}
+label{
+  font-size: 25px;
+}
+.btn{
+  margin: 8% auto;
+  padding: 5% auto;
+}
