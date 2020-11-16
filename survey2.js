@@ -55,5 +55,5 @@ function find_score(){
     else if(ans8_value=="20000-30000 KWH")p8+=10;
     
     score=p1+p2+p3+p4+p5+p6+p7+p8;
-    alert(p1);
+   
 }
