@@ -7,18 +7,24 @@
     <link rel="stylesheet" href="/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="/survey2.js"></script>
+    
     
     
 </head>
-<body class="survey">    
-    <form action="">
+<body class="survey"> 
+    
+        
+          
+    
+    
         
     <div class='container'>Upcoming is a short survey on your day to day activities
-
+        <form action=""></form>
         <div class="q_bath_time">
         <p class="question-question"><i class='far fa-question-circle' style='font-size:36px'></i>How long is the average shower in your house?</p>
         <div class="question-options">
-            <input type="radio" name="time_for_bath" value="<5"/> <5 (pretty fast huh?!)
+            <input type="radio" name="time_for_bath" value="<5"/> <5 
             <input type="radio" name="time_for_bath" value="5-10 min"/> 5-10 min
             <input type="radio" name="time_for_bath" value="10-20 min"/> 10-20 min
             <input type="radio" name="time_for_bath" value=">20min"/> >20min
@@ -26,7 +32,7 @@
         </div>
         
         <div class="question-fact">
-            <p class="q_bath_time_fact">;" ></i>
+            <p class="q_bath_time_fact">
                 The EPA estimates that the standard shower heads use 2.5 gallons of water per minute.
                 That's 20 gallons of water for the average shower! 
                 Try shaving just three minutes off your shower to help reduce your water usage. 
@@ -40,7 +46,7 @@
                 <input type="radio" name="freq_bath" value="Once"/> Once
                 <input type="radio" name="freq_bath" value="Twice"/> Twice
                 <input type="radio" name="freq_bath" value="Thrice"/> Thrice
-                <input type="radio" name="freq_bath" value="Never Mind"/> Never Mind
+                
             </div>
         </div>
 
@@ -61,7 +67,7 @@
             
             <div class="question-options">
                 <input type="radio" name="faucets_time" value="<5 min"/> <5 min
-                <input type="radio" name="faucets_time" value="<5 min"/> 10-20 min
+                <input type="radio" name="faucets_time" value="10-20 min"/> 10-20 min
                 <input type="radio" name="faucets_time" value="approx 30 min"/> approx 30 min
                 <input type="radio" name="faucets_time" value="never noticed/ till the job's done"/> never noticed/ till the job's done
             </div>
@@ -114,8 +120,9 @@
                 <input type="radio" name="low-flow-faucets" value="Yes"> YES
                 <input type="radio" name="low-flow-faucets" value="No"> NO
 
-
+        
             </div>
+        </div>
             <div class="question-fact">
                 <p class="q_low-flow_faucet">
                     If your home was built or remodeled after 1994, you probably have low-flow faucets, which flow as low as 1.5 gallons per minute compared to the standard 3 to 7 gallons per minute.
@@ -127,10 +134,10 @@
                 </p>
                 <span class="concern"> Select all the options applicable</span>
                 <div class="question-options">
-                    <input type="checkbox" name="concern" value="very good"> Water harvesting pits and other ideas are being followed<br>
-                    <input type="checkbox" name="concern" value="not so good"> Not much of a concern as underground and overhead tanks are regularly filled<br>
-                    <input type="checkbox" name="concern" value="bad"> Have regular water shortages<br>
-                    <input type="checkbox" name="concern" value="no idea"> No idea <br>
+                    <input type="radio" name="concern" value="very good"> Water harvesting pits and other ideas are being followed<br>
+                    <input type="radio" name="concern" value="not so good"> Not much of a concern as underground and overhead tanks are regularly filled<br>
+                    <input type="radio" name="concern" value="bad"> Have regular water shortages<br>
+                    <input type="radio" name="concern" value="no idea"> No idea <br>
 
                 </div>
             </div>
@@ -145,28 +152,26 @@
                 <p class="question-question"><i class='far fa-question-circle' style='font-size:36px'></i> How much average electricity is consumed at your house?
                 </p>
                 <div class="question-options">
-                    <input type="radio" name="elec" value="<100 KWH"> <100 KWH
-                    <input type="radio" name="elec" value="=100 KWH"> =100 KWH
-                    <input type="radio" name="elec" value=">100 KWH"> >100 KWH
+                    <input type="radio" name="elec"  value=">40000 KWH"> more than 40000 units
+                    <input type="radio" name="elec"  value="<20000 KWH"> less than 20000 units
+                    <input type="radio" name="elec"  value="20000-30000 KWH"> between 20000-30000 units
                 </div>
             </div>
             <div class="question-fact">
-                <p class="q_elec_fact"> Average energy consumed per household in India is 90KWH per month. Approximately the volume of water required to produce 1KWH of electricity is 95L. 
+                <p class="q_elec_fact"> Average energy consumed per household in India is 90 units(KWH) per month. Approximately the volume of water required to produce 1KWH of electricity is 95L. 
                     Now you can do the math. This is an indirect wastage of water.</p>
 
             </div>
-            <button type="submit" class="submit"> SUBMIT</button>            
-            
+
+            <button type="submit" onclick="find_score()"class="submit"> SUBMIT</button>     
 
 
-
-
-        </div>
-        
-
-        
-        
+    
+        </form>
+    
+       
     </div>
-</form>
+
+
 </body>
 </html>
