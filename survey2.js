@@ -1,7 +1,7 @@
 var score;
 var ans=document.getElementsByTagName('input')
 var ans1_value,ans2_value,ans3_value,ans4_value,ans5_value,ans6_value,ans7_value,ans8_value;
-var p1,p2,p3,p4,p5,p6,p7,p8;
+
 function find_score(){
     for(i=0;i<ans.length;i=i+1)
     {if(ans[i].type="radio"){
@@ -26,34 +26,42 @@ function find_score(){
         }
         
     }}
-    if(ans1_value=="<5")p1=p1+7;    
-    else if(ans1_value== "5-10 min")p1+=10;
-    else if(ans1_value=="10-20 min")p1+=4;
-                
     
-    if(ans2_value=='once')p2+=10;      
-    else if(ans2_value=='twice') p2+=5;
-            
-        
-    if(ans3_value=='<5 min')p3+=3;
-    else if(ans3_value=='10-20 min')p3+=10;
-    else if(ans3_value== 'approx 30 min' ) p3+=7;
+    score=(parseInt(ans1_value) + parseInt(ans2_value) + parseInt(ans3_value) + parseInt(ans4_value) + parseInt(ans5_value) + parseInt(ans6_value) + parseInt(ans7_value) + parseInt(ans8_value))*100/80;
+    document.getElementById('result').innerHTML=score;
+
+    if(parseInt(ans1_value)<5)
+    {
+        document.getElementById('q1').innerHTML="Try shaving atleast three minutes off your shower to help reduce your water usage. Delivering, treating, and heating the hot water for your shower is pretty energy intensive.";
+    }
+    if(parseInt(ans2_value)<5)
+    {
+        document.getElementById('q2').innerHTML="Washing removes healthy oil and bacteria from your skin, so bathing too often could cause dry, itchy skin and allow bad bacteria to enter through cracked skin. So if your answer is more than once to the question (unless you've burnt calories vigorosly), YOU are wasting water! Lots of it. Try to educate other people too! ";
+    }
+    if(parseInt(ans3_value)<5)
+    {
+        document.getElementById('q3').innerHTML="On average, a faucet can use anywhere between 1-3 gallons per minute. This changes depending on other factors. On average, each person uses about 80-100 gallons of water per day, for indoor chores. You can do the math to find out where faucets are being used unnnecessarily and cut it short. Optimum period would be within 30 minutes. "
+    }
+    if(parseInt(ans4_value)==0)
+    {
+        document.getElementById("q4").innerHTML="Got nothing to say. Get them repaired even if it is a small leak!"
+    }
+    if(parseInt(ans5_value)==0)
+    {
+        document.getElementById('q5').innerHTML="Try to implement water recycling techniques as much as possible. Can not impress the importance further."
+    }
+    if(parseInt(ans6_value)==0)
+    {
+        document.getElementById('q6').innerHTML="With technological advanceents and concern towards water conservation, low-flow faucets are highly recommended because of the less water flow rate and economically viable. If not yet, start today."
+    }
+    if(parseInt(ans7_value)<10)
+    {
+        document.getElementById('q7').innerHTML="There are many recycling/storing opportunities available now-a-days. Try to implement them as a community."
+    }
+    if(parseInt(ans8_value)<5)
+    {
+        document.getElementById('q8').innerHTML="Average energy consumed per household in India is 90 units(KWH) per month(including all the factors). So consumption depending on weather, subsidies etc in the range of 100-200 would be optimum according to the statistics."
+    }
+
     
-        
-    if(ans4_value=="yes") p4+=10;
-    
-    if(ans5_value=="Recycled regularly ") p5+=10;
-
-    if(ans6_value=="Yes")p6+=10;
-
-    if(ans7_value=="very good")p7+=10;
-    else if(ans7_value=="not so good")p7+=5;
-
-
-    if(ans8_value==">40000 KWH")p8+=0;
-    else if(ans8_value=="<20000 KWH")p8+=8;
-    else if(ans8_value=="20000-30000 KWH")p8+=10;
-    
-    score=p1+p2+p3+p4+p5+p6+p7+p8;
-   
 }
