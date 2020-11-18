@@ -1,0 +1,1908 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]>
+<html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]>
+<html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]>
+<html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]>
+<html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!-->
+<html  lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="x-dns-prefetch-control" content="on" />
+<link rel="dns-prefetch" href="//www.nrdc.org" />
+<link rel="dns-prefetch" href="//assets.nrdc.org" />
+<!--[if IE 9]>
+<link rel="prefetch" href="//www.nrdc.org" />
+<link rel="prefetch" href="//assets.nrdc.org" />
+<![endif]-->
+<meta name="cludo:story_type" content="Guide" />
+<meta name="analytics-taxonomy-type" content="Story" />
+<meta name="analytics-issue" content="CleanWater" />
+<link href="https://www.nrdc.org/stories/water-pollution-everything-you-need-know" rel="alternate" hreflang="en" />
+<meta name="analytics-subtype" content="Guide" />
+<meta name="cludo:issue" content="Water" />
+<link href="https://www.nrdc.org/es/node/26966" rel="alternate" hreflang="es" />
+<meta name="cludo:authors" content="Melissa Denchak" />
+<meta name="cludo:type" content="Stories" />
+<meta name="cludo:issue" content="Communities" />
+<meta name="cludo:issue" content="Health" />
+<meta name="description" content="Our rivers, reservoirs, lakes, and seas are drowning in chemicals, waste, plastic, and other pollutants. Here’s why―and what you can do to help." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.nrdc.org/stories/water-pollution-everything-you-need-know" />
+<link rel="shortlink" href="https://www.nrdc.org/node/26966" />
+<meta property="fb:admins" content="100000931777281" />
+<meta property="fb:admins" content="1068994273" />
+<meta property="fb:admins" content="696906046" />
+<meta property="fb:app_id" content="1726652997549207" />
+<meta property="og:site_name" content="NRDC" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Water Pollution: Everything You Need to Know" />
+<meta property="og:url" content="https://www.nrdc.org/stories/water-pollution-everything-you-need-know" />
+<meta property="og:description" content="Our rivers, reservoirs, lakes, and seas are drowning in chemicals, waste, plastic, and other pollutants. Here’s why―and what you can do to help." />
+<meta property="og:updated_time" content="2020-09-02T12:01:42-04:00" />
+<meta property="og:image" content="https://assets.nrdc.org/sites/default/files/styles/header_background/public/guide_waterpollution_66615937_1200x630.jpg?itok=l_ax5a0v" />
+<meta property="og:image:url" content="https://assets.nrdc.org/sites/default/files/styles/header_background/public/guide_waterpollution_66615937_1200x630.jpg?itok=l_ax5a0v" />
+<meta property="og:image:secure_url" content="https://assets.nrdc.org/sites/default/files/styles/header_background/public/guide_waterpollution_66615937_1200x630.jpg?itok=l_ax5a0v" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nrdc" />
+<meta name="twitter:creator" content="@nrdc" />
+<meta name="twitter:url" content="https://www.nrdc.org/stories/water-pollution-everything-you-need-know" />
+<meta name="twitter:title" content="Water Pollution: Everything You Need to Know" />
+<meta name="twitter:description" content="Our rivers, reservoirs, lakes, and seas are drowning in chemicals, waste, plastic, and other pollutants. Here’s why―and what you can do to help." />
+<meta name="twitter:image" content="https://assets.nrdc.org/sites/default/files/styles/header_background/public/guide_waterpollution_66615937_1200x630.jpg?itok=l_ax5a0v" />
+<meta itemprop="name" content="Water Pollution: Everything You Need to Know" />
+<meta itemprop="description" content="Our rivers, reservoirs, lakes, and seas are drowning in chemicals, waste, plastic, and other pollutants. Here’s why―and what you can do to help." />
+<meta name="google-site-verification" content="6uahdjNxDS_2-puG2kvRHfeBnLsIhg9PTxBlgMd43Gg" />
+  <title>Water Pollution Facts, Types, Causes and Effects of Water Pollution | NRDC</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="cleartype" content="on">
+  <meta property="fb:pages" content="11791104453">
+
+  <meta name="msapplication-config" content="/browserconfig.xml"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-57x57.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-60x60.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-72x72.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-76x76.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-114x114.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-120x120.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-144x144.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-152x152.png?v=E66O0Ebg5y">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/custom/nrdc/shortcut-icons/apple-touch-icon-180x180.png?v=E66O0Ebg5y">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/nrdc/shortcut-icons/favicon-32x32.png?v=E66O0Ebg5y" sizes="32x32">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/nrdc/shortcut-icons/android-chrome-192x192.png?v=E66O0Ebg5y" sizes="192x192">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/nrdc/shortcut-icons/favicon-96x96.png?v=E66O0Ebg5y" sizes="96x96">
+<link rel="icon" type="image/png" href="/sites/all/themes/custom/nrdc/shortcut-icons/favicon-16x16.png?v=E66O0Ebg5y" sizes="16x16">
+<link rel="manifest" href="/sites/all/themes/custom/nrdc/shortcut-icons/manifest.json">
+<link rel="mask-icon" href="/sites/all/themes/custom/nrdc/shortcut-icons/safari-pinned-tab.svg?v=E66O0Ebg5y" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-TileImage" content="/sites/all/themes/custom/nrdc/shortcut-icons/mstile-144x144.png?v=E66O0Ebg5y ">
+
+  <!-- GDPR -->
+  <!-- OneTrust Cookies Consent Notice (Production Standard, nrdc.org, en-GB) start -->
+  <script src="https://optanon.blob.core.windows.net/consent/0bdf0f55-297a-4b73-a6ef-138675fa1e25.js" type="text/javascript" charset="UTF-8"></script>
+  <script type="text/javascript">
+  function OptanonWrapper() { }
+  </script>
+  <!-- OneTrust Cookies Consent Notice (Production Standard, nrdc.org, en-GB) end -->
+  <!-- GDPR -->
+
+  <!-- page hiding snippet for google optimize -->
+  <style>.async-hide { opacity: 0 !important} </style>
+  <link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_8J8Az1SKJ8EB1Z218IR9YcOsKuMS1i-Q3BOb0mJPY3E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_YYez7j1LwRoo74p9ti132IzKi0fhuore-Bh-HlxnIu8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_lvW49_zUJnEKlyVofIX1kDUXT2O_3GL1aBT_PgZFJog.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_ygouekMQQCeWOLrdLckbAfnsrRVOg2wLc0Usasncfm8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cloud.typography.com/7528912/764588/css/fonts.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_bWCJVJss-lMm8XcWUwaWtJXd70Dv39j_1X74fxSGQ8M.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_3a_pfzNqsxc33aAjw1ynkWgV1CZGA8X7rVzYlC8lBIo.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://assets.nrdc.org/sites/default/files/cdn/css/https/css_9YmlPLshRjGRFTtBVBOF0c2lNiyNsCoF9lCs5pAcP1k.css" media="all" />
+  <script>var dataLayer = dataLayer || [];
+      dataLayer.push({
+      'issues': 'communities|health|water|',
+      });
+    </script>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;})(window,document.documentElement,'async-hide','dataLayer',4000,{'GTM-TRX9F2':true});</script>
+<script>(function(w,d,s,l,i){
+
+  w[l]=w[l]||[];
+  w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+  var f=d.getElementsByTagName(s)[0];
+  var j=d.createElement(s);
+  var dl=l!='dataLayer'?'&l='+l:'';
+  j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'';
+  j.async=true;
+  f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-TRX9F2');</script>
+<script src="https://www.nrdc.org/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js"></script>
+<script src="https://www.nrdc.org/sites/default/files/js/js_aLFIaTTK9dBIXtv5EG4P2mCuZssuep8ltnbcXh9eha0.js"></script>
+<script src="https://www.nrdc.org/sites/default/files/js/js_ANwDUsEthVwY4YH_3DM6LcLLJSU9jzSLvoW4RpM9vgo.js"></script>
+<script src="https://www.nrdc.org/sites/default/files/js/js_DTr9srTz-fMzIc6uTr4Z21f3p81loDJWN5wSUFMS48A.js"></script>
+<script src="https://www.nrdc.org/sites/default/files/js/js_OcjhamDAFTlKa5wj7V86zRp_unfnmvfDggWzSnt0eFM.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nrdc","theme_token":"eF5161j_tjJ0fSubh1dGRCyDVWRBnYXmtbOeZwC9dQY","jquery_version":"1.10","js":{"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"0":1,"1":1,"2":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery.form\/3\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/cs_adaptive_image\/cs_adaptive_image.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/custom\/nrdc_fields\/js\/nrdc_fields_relation_modal.js":1,"sites\/all\/themes\/custom\/nrdc\/js\/mediaCheck-min.js":1,"sites\/all\/themes\/custom\/nrdc\/js\/site.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/footnotes\/footnotes.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"\/\/cloud.typography.com\/7528912\/764588\/css\/fonts.css":1,"sites\/all\/themes\/custom\/nrdc\/css\/normalize.min.css":1,"sites\/all\/themes\/custom\/nrdc\/css\/print.min.css":1,"sites\/all\/themes\/custom\/nrdc\/css\/minicat.min.css":1,"sites\/all\/themes\/custom\/nrdc\/css\/slices.min.css":1}},"better_exposed_filters":{"views":{"full_width_header":{"displays":{"block":{"filters":[]}}}}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/assets.nrdc.org\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 src=\u0022https:\/\/assets.nrdc.org\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"nrdc-fields-relation-modal-style":{"modalSize":{"type":"fixed","width":600,"height":240,"addWidth":10,"addHeight":10,"contentRight":0,"contentBottom":0},"modalOptions":{"opacity":0.59999999999999998,"background-color":"#684C31"},"animation":"fadeIn","modalTheme":"nrdc_fields_relation_modal"},"urlIsAjaxTrusted":{"\/search":true},"addthis":{"async":0,"domready":1,"widget_url":"\/\/s7.addthis.com\/js\/300\/addthis_widget.js","addthis_config":{"pubid":"ra-56a7bee2161a9490","services_compact":"more","services_exclude":"","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":100,"ui_header_background":"","ui_header_color":"","ui_open_windows":true,"ui_use_css":false,"ui_use_addressbook":false,"ui_language":"en"},"addthis_share":{"url_transforms":{"shorten":{"twitter":"bitly"}},"shorteners":{"bitly":[]},"templates":{"twitter":"{{title}} {{url}} via @nrdc"}}}});</script>
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/contrib/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-26966 node-type-story i18n-en section-stories post-type no-story-hero page-flex-width" >
+  <p id="skip-link">
+    <a href="#block-menu-block-1" class="element-invisible element-focusable">Jump to navigation</a>
+  </p>
+  <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TRX9F2"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  </div>
+
+<div id="page" class="l-page">
+
+  
+  
+  <header class="l-header" id="header" role="banner">
+    <div id="navigation" class="l-navigation l-container">
+      <a href="#block-menu-block-1" class="mmenu-trigger"><i class="ico-hamburger"></i>Menu</a>
+              <div class="header__site-name" id="site-name">
+          <a href="/" title="Home" class="header__site-link" rel="home">
+            <span>NRDC</span>
+          </a>
+        </div>
+      
+                  <div class="region region-header-message">
+    <div id="block-block-9" class="block block-block first last odd">
+
+      
+  <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
+<script type="text/javascript" src="https://a.optmnstr.com/app/js/api.min.js" data-account="58474" data-user="51954" async></script>
+<!-- / https://optinmonster.com -->
+</div>
+  </div>
+      
+                <div class="region region-navigation">
+    <div id="block-menu-block-1" class="block block-menu-block l-main-menu first odd" role="navigation">
+
+        <span class="element-invisible block__title block-title">Main menu</span>
+    
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu menu-level-1"><li class="menu__item is-expanded first expanded menu-mlid-1352 menu-our-work our-work li-menu-link level-1 level-1-expanded"><a href="/work" class="menu__link">Our Work</a><ul class="menu menu-level-2"><li class="menu__item is-expanded first expanded menu-mlid-626 menu-col areas-of-work li-menu-link level-2 level-2-expanded"><span class="menu__link nolink">Areas of Work</span><ul class="menu menu-level-3"><li class="menu__item is-leaf first leaf menu-mlid-912 climate-change li-menu-link level-3"><a href="/issues/climate-change" class="menu__link">Climate Change</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-910 communities li-menu-link level-3"><a href="/issues/communities" class="menu__link">Communities</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-911 energy li-menu-link level-3"><a href="/issues/energy" class="menu__link">Energy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-629 food li-menu-link level-3"><a href="/issues/food" class="menu__link">Food</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-630 health li-menu-link level-3"><a href="/issues/health" class="menu__link">Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-908 oceans li-menu-link level-3"><a href="/issues/oceans" class="menu__link">Oceans</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-628 water li-menu-link level-3"><a href="/issues/water" class="menu__link">Water</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-913 the-wild li-menu-link level-3"><a href="/issues/wild" class="menu__link">The Wild</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-627 menu-col how-we-work li-menu-link level-2 level-2-expanded"><span class="menu__link nolink">How We Work</span><ul class="menu menu-level-3"><li class="menu__item is-leaf first leaf menu-mlid-919 advocacy li-menu-link level-3"><a href="/how-we-work#advocacy" class="menu__link">Advocacy</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-920 business li-menu-link level-3"><a href="/how-we-work#business" class="menu__link">Business</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1644 litigation li-menu-link level-3"><a href="/how-we-work#litigation" class="menu__link">Litigation</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-921 partnerships li-menu-link level-3"><a href="/how-we-work#partnerships" class="menu__link">Partnerships</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-918 science li-menu-link level-3"><a href="/how-we-work#science" class="menu__link">Science</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1356 menu-col where-we-work li-menu-link level-2 level-2-expanded"><span class="menu__link nolink">Where We Work</span><ul class="menu menu-level-3"><li class="menu__item is-leaf first leaf menu-mlid-1380 international li-menu-link level-3"><a href="/international" class="menu__link">International</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1381 united-states li-menu-link level-3"><a href="/united-states" class="menu__link">United States</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-669 menu-col menu-about-wrap about-blocks li-menu-link level-2 level-2-expanded"><span class="menu__link nolink">About Blocks</span><ul class="menu menu-level-3"><li class="menu__item is-leaf first leaf menu-mlid-672 menu-about-text about li-menu-link level-3"><a href="/about" class="menu__link">About</a><div class="menu-attach-block-wrapper">
+	<div id="block-nrdc-blocks-nrdc-menu-about" class="block block-nrdc-blocks first odd">
+
+      
+  
+<p>
+  The Natural Resources Defense Council works to safeguard the earth - its people,
+  its plants and animals, and the natural systems on which all life depends.</p>
+
+</div>
+</div>
+</li>
+<li class="menu__item is-leaf leaf menu-mlid-2289 menu-about-text support-nrdc li-menu-link level-3" style="padding-top: 15px;"><a href="/support-nrdc" class="menu__link">Support NRDC</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-755 menu-follow-block follow-us li-menu-link level-3"><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-nrdc-blocks-nrdc-footer-social" class="block block-nrdc-blocks footer-social first odd">
+
+        <span class="footer-social-title">Follow Us</span>
+    
+  
+<div class="block-region">
+  <ul class="footer-social-list inline-list">
+
+    <li class="social-icon">
+      <a href="https://twitter.com/nrdc" target="_blank">
+        <span class="icon-text">Twitter</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="17" viewBox="0 0 21 17"><title id="title" lang="en">Twitter</title><g fill="none"><g fill="#00b6f0"><path d="M21 2C20.4 2.9 19.7 3.6 18.8 4.2 18.9 5.6 18.7 6.9 18.3 8.2 18 9.4 17.5 10.5 16.8 11.5 16.1 12.6 15.3 13.5 14.4 14.3 13.4 15.1 12.3 15.8 10.9 16.3 9.6 16.8 8.1 17 6.6 17 4.2 17 2 16.4 0 15.1 0.3 15.1 0.7 15.1 1 15.1 3 15.1 4.8 14.5 6.4 13.3 5.5 13.3 4.6 13 3.9 12.4 3.2 11.9 2.6 11.2 2.4 10.3 2.7 10.4 2.9 10.4 3.2 10.4 3.6 10.4 3.9 10.3 4.3 10.2 3.3 10.1 2.5 9.5 1.8 8.8 1.2 8 0.8 7 0.9 6L0.9 6C1.4 6.3 2.1 6.5 2.8 6.5 2.2 6.1 1.7 5.6 1.4 5 1.1 4.4 0.9 3.7 0.9 2.9 0.9 2.2 1.1 1.4 1.5 0.8 2.5 2.1 3.9 3.2 5.4 4 6.9 4.7 8.6 5.2 10.3 5.3 10.3 4.9 10.2 4.6 10.2 4.3 10.2 3.1 10.7 2.1 11.5 1.3 12.3 0.4 13.3 0 14.5 0 15.8 0 16.8 0.5 17.7 1.4 18.6 1.2 19.6 0.8 20.4 0.3 20.1 1.3 19.5 2.1 18.5 2.7 19.4 2.6 20.2 2.4 21 2Z"/></g></g></svg>
+      </a>
+    </li>
+
+    <li class="social-icon">
+     <a href="https://www.facebook.com/nrdc.org" target="_blank">
+       <span class="icon-text">Facebook</span>
+     <svg xmlns="http://www.w3.org/2000/svg" width="9" height="17" viewBox="0 0 9 17"><title id="title" lang="en">Facebook</title><g fill="none"><g fill="#00b6f0"><path d="M9 0.1L9 2.8 7.4 2.8C6.8 2.8 6.4 2.9 6.2 3.2 5.9 3.4 5.8 3.8 5.8 4.3L5.8 6.2 8.9 6.2 8.5 9.2 5.8 9.2 5.8 17 2.7 17 2.7 9.2 0 9.2 0 6.2 2.7 6.2 2.7 4C2.7 2.7 3 1.7 3.7 1 4.5 0.3 5.4 0 6.6 0 7.6 0 8.4 0 9 0.1Z"/></g></g></svg>
+     </a>
+    </li>
+
+    <li class="social-icon">
+      <a href="https://www.youtube.com/user/NRDCflix" target="_blank">
+        <span class="icon-text">YouTube</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 18"><title id="title" lang="en">YouTube</title><g fill="none"><path d="M9.5 12.6L16 9.2 9.5 5.8 9.5 12.6 9.5 12.6ZM12 0.9C13.5 0.9 14.9 0.9 16.3 1 17.7 1 18.8 1.1 19.4 1.1L20.4 1.2C20.4 1.2 20.5 1.2 20.6 1.2 20.8 1.2 20.9 1.2 20.9 1.2 21 1.2 21.1 1.3 21.2 1.3 21.4 1.3 21.5 1.3 21.6 1.4 21.7 1.4 21.9 1.5 22 1.6 22.1 1.6 22.3 1.7 22.4 1.8 22.6 2 22.8 2.2 23 2.4 23.1 2.6 23.2 2.8 23.4 3.2 23.6 3.6 23.7 4.1 23.8 4.6 23.8 5.2 23.9 5.8 23.9 6.4 24 7.1 24 7.6 24 8L24 10.3C24 11.6 23.9 13 23.8 14.3 23.7 14.7 23.6 15.2 23.4 15.6 23.3 16 23.1 16.3 23 16.4L22.8 16.7C22.7 16.8 22.6 16.9 22.4 17 22.3 17.1 22.1 17.2 22 17.3 21.9 17.3 21.8 17.4 21.6 17.4 21.5 17.5 21.4 17.5 21.2 17.5L20.9 17.6C20.7 17.6 20.6 17.7 20.4 17.7 18.2 17.8 15.4 17.9 12 17.9 10.4 17.9 8.8 17.9 7.2 17.8 5.8 17.8 4.9 17.8 4.5 17.7L3.8 17.7 3.4 17.6C3.1 17.6 2.9 17.5 2.6 17.5 2.4 17.4 2.2 17.3 1.9 17.2 1.6 17 1.2 16.7 1 16.4 0.9 16.3 0.8 16 0.6 15.6 0.4 15.2 0.3 14.7 0.2 14.3 0.2 13.6 0.1 13 0.1 12.4 0 11.9 0 11.4 0 10.9L0 8.5C0 7.2 0.1 5.9 0.2 4.6 0.3 4.1 0.4 3.6 0.6 3.2 0.7 2.8 0.9 2.6 1 2.4L1.2 2.2C1.3 2.1 1.4 1.9 1.6 1.8 1.7 1.7 1.9 1.6 2 1.6 2.1 1.5 2.2 1.4 2.4 1.4 2.5 1.3 2.6 1.3 2.8 1.3 2.9 1.3 3 1.2 3.1 1.2 3.2 1.2 3.3 1.2 3.4 1.2L3.6 1.2C5.8 1 8.6 0.9 12 0.9L12 0.9Z" fill="#00b6f0"/></g></svg>
+      </a>
+    </li>
+
+    <li class="social-icon">
+      <a href="https://www.instagram.com/nrdc_org/" target="_blank">
+        <span class="icon-text">instagram</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><title id="title" lang="en">instagram</title><style>.a{fill:#00b6f0;}</style><defs><polygon points="0 19 19 19 19 0 0 0"/></defs><g fill="none"><mask fill="white"><use xlink:href="#path-1"/></mask><path d="M9.5 0C6.9 0 6.6 0 5.6 0.1 4.6 0.1 3.9 0.3 3.3 0.5 2.7 0.7 2.1 1.1 1.6 1.6 1.1 2.1 0.7 2.7 0.5 3.3 0.3 3.9 0.1 4.6 0.1 5.6 0 6.6 0 6.9 0 9.5 0 12.1 0 12.4 0.1 13.4 0.1 14.4 0.3 15.1 0.5 15.7 0.7 16.3 1.1 16.9 1.6 17.4 2.1 17.9 2.7 18.3 3.3 18.5 3.9 18.7 4.6 18.9 5.6 18.9 6.6 19 6.9 19 9.5 19 12.1 19 12.4 19 13.4 18.9 14.4 18.9 15.1 18.7 15.7 18.5 16.3 18.3 16.9 17.9 17.4 17.4 17.9 16.9 18.3 16.3 18.5 15.7 18.7 15.1 18.9 14.4 18.9 13.4 19 12.4 19 12.1 19 9.5 19 6.9 19 6.6 18.9 5.6 18.9 4.6 18.7 3.9 18.5 3.3 18.3 2.7 17.9 2.1 17.4 1.6 16.9 1.1 16.3 0.7 15.7 0.5 15.1 0.3 14.4 0.1 13.4 0.1 12.4 0 12.1 0 9.5 0ZM9.5 1.7C12 1.7 12.3 1.7 13.3 1.8 14.3 1.8 14.8 2 15.1 2.1 15.5 2.3 15.9 2.5 16.2 2.8 16.5 3.1 16.7 3.5 16.9 3.9 17 4.2 17.2 4.7 17.2 5.7 17.3 6.7 17.3 7 17.3 9.5 17.3 12 17.3 12.3 17.2 13.3 17.2 14.3 17 14.8 16.9 15.1 16.7 15.5 16.5 15.9 16.2 16.2 15.9 16.5 15.5 16.7 15.1 16.9 14.8 17 14.3 17.2 13.3 17.2 12.3 17.3 12 17.3 9.5 17.3 7 17.3 6.7 17.3 5.7 17.2 4.7 17.2 4.2 17 3.9 16.9 3.5 16.7 3.1 16.5 2.8 16.2 2.5 15.9 2.3 15.5 2.1 15.1 2 14.8 1.8 14.3 1.8 13.3 1.7 12.3 1.7 12 1.7 9.5 1.7 7 1.7 6.7 1.8 5.7 1.8 4.7 2 4.2 2.1 3.9 2.3 3.5 2.5 3.1 2.8 2.8 3.1 2.5 3.5 2.3 3.9 2.1 4.2 2 4.7 1.8 5.7 1.8 6.7 1.7 7 1.7 9.5 1.7L9.5 1.7Z" mask="url(#mask-2)" class="a"/><path d="M9.5 12.7C7.8 12.7 6.3 11.2 6.3 9.5 6.3 7.8 7.8 6.3 9.5 6.3 11.2 6.3 12.7 7.8 12.7 9.5 12.7 11.2 11.2 12.7 9.5 12.7ZM9.5 4.6C6.8 4.6 4.6 6.8 4.6 9.5 4.6 12.2 6.8 14.4 9.5 14.4 12.2 14.4 14.4 12.2 14.4 9.5 14.4 6.8 12.2 4.6 9.5 4.6L9.5 4.6Z" class="a"/><path d="M15.7 4.4C15.7 5.1 15.2 5.6 14.6 5.6 13.9 5.6 13.4 5.1 13.4 4.4 13.4 3.8 13.9 3.3 14.6 3.3 15.2 3.3 15.7 3.8 15.7 4.4" class="a"/></g></svg>
+      </a>
+    </li>
+
+     <li class="social-icon">
+      <a href="/rss.xml" target="_blank">
+        <span class="icon-text">RSS</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"><title id="title" lang="en">RSS Feed</title><g fill="none"><g fill="#00b6f0"><path d="M4.6 14.6C4.6 15.3 4.4 15.9 3.9 16.3 3.5 16.7 2.9 17 2.3 17 1.7 17 1.1 16.7 0.7 16.3 0.2 15.9 0 15.3 0 14.6 0 14 0.2 13.5 0.7 13 1.1 12.6 1.7 12.3 2.3 12.3 2.9 12.3 3.5 12.6 3.9 13 4.4 13.5 4.6 14 4.6 14.6L4.6 14.6ZM10.8 16.1C10.8 16.3 10.7 16.6 10.6 16.7 10.4 16.9 10.2 17 10 17L8.4 17C8.2 17 8 16.9 7.9 16.8 7.7 16.6 7.6 16.5 7.6 16.3 7.5 14.4 6.7 12.8 5.4 11.5 4.1 10.2 2.5 9.5 0.7 9.3 0.5 9.3 0.3 9.2 0.2 9.1 0.1 8.9 0 8.8 0 8.6L0 6.9C0 6.7 0.1 6.5 0.3 6.4 0.4 6.2 0.6 6.2 0.8 6.2L0.8 6.2C2.1 6.3 3.4 6.6 4.5 7.1 5.7 7.7 6.7 8.4 7.6 9.3 8.5 10.2 9.3 11.3 9.8 12.4 10.4 13.6 10.7 14.9 10.8 16.1L10.8 16.1ZM17 16.2C17 16.4 16.9 16.6 16.7 16.7 16.6 16.9 16.4 17 16.2 17L14.5 17C14.3 17 14.1 16.9 13.9 16.7 13.8 16.6 13.7 16.4 13.7 16.2 13.6 14.5 13.2 12.9 12.5 11.3 11.8 9.8 10.8 8.4 9.7 7.3 8.5 6.1 7.2 5.2 5.6 4.5 4.1 3.8 2.4 3.4 0.7 3.3 0.5 3.2 0.3 3.2 0.2 3 0.1 2.9 0 2.7 0 2.5L0 0.8C0 0.5 0.1 0.4 0.2 0.2 0.4 0.1 0.6 0 0.8 0L0.8 0C2.9 0.1 4.9 0.6 6.8 1.4 8.8 2.3 10.5 3.5 12 5 13.5 6.5 14.7 8.2 15.5 10.1 16.4 12 16.9 14.1 17 16.2Z"/></g></g></svg>
+      </a>
+    </li>
+
+  </ul>
+</div>
+
+</div>
+</div>
+</li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-670 menu-item-fullwidth our-work-fw view-all-from-our-work li-menu-link level-2"><a href="/work" class="menu__link full-width-link">View all from our work</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-1355 standard-drop-menu our-experts li-menu-link level-1"><a href="/experts" class="menu__link">Our Experts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1354 standard-drop-menu our-stories li-menu-link level-1"><a href="/stories" class="menu__link">Our Stories</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-560 standard-drop-menu get-involved li-menu-link level-1"><a href="/get-involved" class="menu__link">Get Involved</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-624 standard-drop-menu about-us-top-link about-us li-menu-link level-1 level-1-expanded"><a href="/about" class="menu__link">About Us</a><ul class="menu menu-level-2"><li class="menu__item is-leaf first leaf menu-mlid-1359 mission li-menu-link level-2"><a href="/about#mission" class="menu__link">Mission</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1365 leadership li-menu-link level-2"><a href="/about#leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1366 programs li-menu-link level-2"><a href="/about#programs" class="menu__link">Programs</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1367 financials li-menu-link level-2"><a href="/finances-and-annual-report" class="menu__link">Financials</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-3229 our-sustainability li-menu-link level-2"><a href="/sustainability-nrdc" class="menu__link">Our Sustainability</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1368 media-center li-menu-link level-2"><a href="/media" class="menu__link">Media Center</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1369 careers li-menu-link level-2"><a href="/careers" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1370 contact-us li-menu-link level-2"><a href="/contact-us" class="menu__link">Contact Us</a></li>
+</ul></li>
+</ul></div>
+
+</div>
+  <div class="donate-drop block block-menu l-action-menu even">
+    <div class="donate-drop__top">
+      <a href="https://act.nrdc.org/donate/monthly/?locsrc=nr-glb-nav-btn&amp;source=WEBMEM">Donate</a>
+    </div>
+    <div class="donate-drop__content">
+      <div class="donate-drop__content-inside">
+        <form id="act-header" name="act" class="ak-donate-one-step" method="GET" action="https://act.nrdc.org/donate/monthly/" accept-charset="utf-8">
+          <div class="donate-drop__inputs">
+            <input type="hidden" name="want_prefill_data" value="1">
+            <input type="hidden" name="locsrc" value="nr-hp-top-wgt">
+            <input type="hidden" name="source" value="E19ZSUSTB">
+            <input id="donate-amount" type="text" placeholder="$20" value="$20" />
+            <input id='donation-type' type="hidden" name="page" value="monthly">
+            <select id="donate-select" class="chosen-select-no-search">
+              <option value="monthly" selected="selected">Monthly</option>
+              <option value="one-time">One-time</option>
+            </select>
+          </div>
+          <input type="submit" value="Give" class="btn btn-no-margin btn-no-float btn-white-outline" />
+          <input id="donation-amount" type="hidden" name="amount" value="20"/>
+        </form>
+      </div>
+    </div>
+  </div><!--/.donate-drop-->
+<div id="block-nrdc-solr-site-search" class="block block-nrdc-solr l-search-form last odd">
+
+        <h2 class="block__title block-title">Search</h2>
+    
+  <form action="/search" method="GET" id="nrdc-solr-site-search-form" accept-charset="UTF-8"><div><div class="posn-relative has-infield-label mt-12 mt-s-4"><div class="form-item form-type-textfield form-item-search">
+  <label for="edit-search-sitewide">Search </label>
+ <input title="Search NRDC content" type="text" id="edit-search-sitewide" name="search" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input class="infield-button posn-absolute mt-0 mb-0 form-submit" type="submit" id="edit-submit" name="" value="Search" /></div></div></form>
+</div>
+  </div>
+      
+    </div> <!-- // navigation -->
+  </header>
+
+  
+  
+  <div class="l-main-wrap">
+
+    <div id="main" class="l-main l-container">
+
+      <div id="content" role="main" class="l-content">
+      
+      <a id="main-content"></a>
+
+                                                
+
+
+<article class="node-26966 node node-story view-mode-full clearfix article-content has-type"  about="/stories/water-pollution-everything-you-need-know" typeof="sioc:Item foaf:Document">
+
+  <header class="post-header containerwrap containerwrap__w656">
+
+    <div class="sticky-social-wrap">
+      <div class="side-social-wrap">
+        <div class="fc-share l-share-block"><div class="addthis_toolbox addthis_sharing_toolbox nrdc-share-wrap" addthis:title="Water Pollution: Everything You Need to Know" addthis:url="https://www.nrdc.org/stories/water-pollution-everything-you-need-know"><a href="https://www.addthis.com/bookmark.php?v=300" class="addthis_button_facebook atc-link"><span class="atcustom-icon atcustom-facebook"><span>facebook</span></span></a>
+<a href="https://www.addthis.com/bookmark.php?v=300" class="addthis_button_twitter atc-link"><span class="atcustom-icon atcustom-twitter"><span>twitter</span></span></a>
+</div>
+</div>                  <a class="scrolltop" href="#">
+            <span>Scroll to the top</span>
+            <i class="fa fa-arrow-circle-up"></i>
+          </a>
+              </div>
+    </div>
+
+    
+          <div class="type blue-link">
+        <a class="top-link" href="/stories">Our Stories</a>  ›
+        <a href="/story/guide" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Guide</a>      </div>
+    
+    <h1>Water Pollution: Everything You Need to Know</h1>
+
+    
+         <div class="summary">Our rivers, reservoirs, lakes, and seas are drowning in chemicals, waste, plastic, and other pollutants. Here’s why―and what you can do to help. </div>
+    
+    <div class="byline list-reset">
+
+      <span class="byline-text author-date">
+        May 14, 2018      </span>
+
+              <span class="byline-text author-name">
+          <span class="bio-wrap">
+
+<a href="/experts/melissa-denchak-0">
+  Melissa Denchak</a>
+
+  
+</span>
+        </span>
+      
+    </div>
+
+  </header>
+
+
+   <div class="page-node-wrap post-content containerwrap containerwrap__w656 plr-s-20">
+    <div class="l-content-full-wrap">
+      <span class="body-content"><!-- NOTE: EDITOR MUST REMAIN IN UNALTERED HTML -->
+
+<h5>Jump to Section</h5>
+<ul>
+<li><a href="#whatis">What Is Water Pollution?</a></li>
+<li><a href="#causes">What Are the Causes of Water Pollution?</a></li>
+<li><a href="#categories">Categories of Water Pollution</a></li>
+<li><a href="#common">The Most Common Types of Water Contamination</a></li>
+<li><a href="#effects">What Are the Effects of Water Pollution?</a></li>
+<li><a href="#prevent">What Can You Do to Prevent Water Pollution?</a></li>
+</ul>
+
+<div class="img-no-float"><div class="media media-element-container media-full_content">
+<figure id="file-22076"
+        class="post-figure image-full-width file file-inline-image file-image-jpeg no-attribution no-caption">
+
+   
+  <noscript class="adaptive-image" data-adaptive-image-breakpoints="768" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_66615937_2400.jpg?itok=sFkjJE59&quot; width=&quot;634&quot; height=&quot;385&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-768-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_66615937_2400.jpg?itok=l7kar9Ev&quot; width=&quot;634&quot; height=&quot;385&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_66615937_2400.jpg?itok=l7kar9Ev&quot; width=&quot;634&quot; height=&quot;385&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_66615937_2400.jpg?itok=sFkjJE59&quot; width=&quot;634&quot; height=&quot;385&quot; alt=&quot;&quot; /&gt;"><img typeof="foaf:Image" src="https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_66615937_2400.jpg?itok=sFkjJE59" width="634" height="385" alt="" /></noscript>
+
+  
+</figure>
+</div></div><p>British poet <a href="https://genius.com/W-h-auden-first-things-first-annotated">W. H. Auden</a> once noted, &ldquo;Thousands have lived without love, not one without water.&rdquo; Yet while we all know water is crucial for life, we trash it anyway. Some <a href="http://unesdoc.unesco.org/images/0024/002475/247553e.pdf">80 percent of the world&rsquo;s wastewater</a> is dumped&mdash;largely untreated&mdash;back into the environment, polluting rivers, lakes, and oceans.</p><p>This widespread problem of water pollution is jeopardizing our health. Unsafe water <a href="http://www.un.org/waterforlifedecade/quality.shtml">kills more people</a> each year than war and all other forms of violence combined. Meanwhile, our drinkable water sources are finite: <a href="https://www.livescience.com/29673-how-much-water-on-earth.html">Less than 1 percent</a> of the earth&rsquo;s freshwater is actually accessible to us. Without action, the challenges will only increase by 2050, when global demand for freshwater is expected to be <a href="http://unesdoc.unesco.org/images/0026/002614/261424e.pdf">one-third greater</a> than it is now.</p><p>Sip a glass of cool, clear water as you read this, and you may think water pollution is a problem .&nbsp;.&nbsp;. somewhere else. But while <a href="https://www.nrdc.org/resources/threats-tap-widespread-violations-water-infrastructure">most Americans have access to safe drinking water</a>, potentially harmful contaminants&mdash;from arsenic to copper to lead&mdash;have been found in the tap water of every single state in the nation.</p><p>Still, we&rsquo;re not hopeless against the threat to clean water. To better understand the problem and what we can do about it, here&rsquo;s an overview of what water pollution is, what causes it, and how we can protect ourselves.</p>
+
+<h3 id="whatis">What Is Water Pollution?</h3><p>Water pollution occurs when harmful substances&mdash;often chemicals or microorganisms&mdash;contaminate a stream, river, lake, ocean, aquifer, or other body of water, degrading water quality and rendering it toxic to humans or the environment.</p>
+
+<h3 id="causes">What Are the Causes of Water Pollution?</h3><p>Water is uniquely vulnerable to pollution. Known as a &ldquo;universal solvent,&rdquo; water is able to dissolve more substances than any other liquid on earth. It&rsquo;s the reason we have Kool-Aid and brilliant blue waterfalls. It&rsquo;s also why water is so easily polluted. Toxic substances from farms, towns, and factories readily dissolve into and mix with it, causing water pollution.</p>
+
+<h3  id="categories">Categories of Water Pollution</h3><h4>Groundwater</h4><p>When rain falls and seeps deep into the earth, filling the cracks, crevices, and porous spaces of an aquifer (basically an underground storehouse of water), it becomes groundwater&mdash;one of our least visible but most important natural resources. <a href="http://www.ngwa.org/Fundamentals/Documents/usa-groundwater-use-fact-sheet.pdf">Nearly 40 percent of Americans</a> rely on groundwater, pumped to the earth&rsquo;s surface, for drinking water. For some folks in rural areas, it&rsquo;s their only freshwater source. Groundwater gets polluted when contaminants&mdash;from pesticides and fertilizers to waste leached from landfills and septic systems&mdash;make their way into an aquifer, rendering it unsafe for human use. Ridding groundwater of contaminants can be difficult to impossible, as well as costly. Once polluted, an aquifer may be unusable for decades, or even thousands of years. Groundwater can also spread contamination far from the original polluting source as it seeps into streams, lakes, and oceans.</p><h4>Surface water</h4><p>Covering about <a href="https://water.usgs.gov/edu/earthhowmuch.html">70 percent of the earth</a>, surface water is what fills our oceans, lakes, rivers, and all those other blue bits on the world map. Surface water from freshwater sources (that is, from sources other than the ocean) accounts for <a href="https://pubs.usgs.gov/of/2017/1131/ofr20171131.pdf">more than 60 percent</a> of the water delivered to American homes. But a significant pool of that water is in peril. According to the most recent surveys on national water quality from the U.S. Environmental Protection Agency, <a href="https://www.epa.gov/sites/production/files/2016-03/documents/fact_sheet_draft_variation_march_2016_revision.pdf">nearly half of our rivers and streams</a> and <a href="https://www.epa.gov/sites/production/files/2016-12/documents/nla_fact_sheet_dec_7_2016.pdf">more than one-third of our lakes</a> are polluted and unfit for swimming, fishing, and drinking. <a href="https://www.epa.gov/sites/production/files/2015-03/documents/facts_about_nutrient_pollution_what_is_hypoxia.pdf">Nutrient pollution</a>, which includes nitrates and phosphates, is the leading type of contamination in these freshwater sources. While plants and animals need these nutrients to grow, they have become a <a href="https://www.nrdc.org/stories/whats-your-drinking-water">major pollutant</a> due to farm waste and fertilizer runoff. Municipal and industrial waste discharges contribute their fair share of toxins as well. There&rsquo;s also all the random junk that industry and individuals dump directly into waterways.</p>
+
+<div class="embed"><div class="action-promo-wrap">
+  <div class="l-1up-promo clearfix">
+    
+<div class="oneup-promo-image-wrap eq-col">
+      <a href="https://act.nrdc.org/letter/clean-water-190912?source=WBSCWRPET">
+<div id="file-46593" class="file file-hero-image file-image-png">
+
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://assets.nrdc.org/sites/default/files/styles/1up_promo/public/nrdc_fightback_trump_4206.png?itok=1TcJRFu-" width="450" height="300" alt="" />  </div>
+
+  
+</div>
+</a>  </div>
+
+<div class="oneup-promo-text-wrap eq-col">
+  <div class="oneup-promo-text">
+
+          <h2>Stop Trump’s assault on vital drinking water supplies</h2>
+    
+          <div class="button-style-involved">
+        
+  <h3 class="action-link"><a href="https://act.nrdc.org/letter/clean-water-190912?source=WBSCWRPET">Take Action</a></h3>
+      </div>
+    
+  </div>
+</div>
+  </div>
+</div>
+</div>
+
+<h4>Ocean water</h4><p><a href="https://oceanservice.noaa.gov/facts/pollution.html">Eighty percent</a> of <a href="https://www.nrdc.org/stories/ocean-pollution-dirty-facts">ocean pollution</a> (also called marine pollution) originates on land&mdash;whether along the coast or far inland. Contaminants such as chemicals, nutrients, and heavy metals are carried from farms, factories, and cities by streams and rivers into our bays and estuaries; from there they travel out to sea. Meanwhile, marine debris&mdash;<a href="https://www.nrdc.org/stories/10-ways-reduce-plastic-pollution">particularly plastic</a>&mdash;is blown in by the wind or washed in via storm drains and sewers. Our seas are also sometimes spoiled by oil spills and leaks&mdash;<a href="https://www.mnn.com/earth-matters/wilderness-resources/stories/the-13-largest-oil-spills-in-history">big</a> and <a href="https://www.wired.com/2016/12/thousands-invisible-oil-spills-destroying-gulf/">small</a>&mdash;and are consistently soaking up carbon pollution from the air. The ocean absorbs as much as <a href="https://www.nrdc.org/stories/acid-seas">a quarter of man-made carbon emissions</a>.</p><h4>Point source</h4><p>When contamination originates from a single source, it&rsquo;s called&nbsp;<a href="http://oceanservice.noaa.gov/education/kits/pollution/03pointsource.html" target="_blank">point source pollution</a>. Examples include wastewater (also called effluent) discharged legally or illegally by a manufacturer, oil refinery, or wastewater treatment facility, as well as contamination from leaking septic systems, chemical and oil spills, and illegal dumping. The EPA <a href="https://www.epa.gov/npdes/npdes-permit-basics">regulates point source</a> pollution by establishing limits on what can be discharged by a facility directly into a body of water. While point source pollution originates from a specific place, it can affect miles of waterways and ocean.</p><h4>Nonpoint source</h4><p>Nonpoint source pollution is contamination derived from diffuse sources. These may include agricultural or stormwater runoff or debris blown into waterways from land. <strong>Nonpoint source pollution is </strong>the <a href="https://www.epa.gov/nps/what-nonpoint-source">leading cause of water pollution</a> in U.S. waters, but it&rsquo;s difficult to regulate, since there&rsquo;s no single, identifiable culprit.</p><h4>Transboundary</h4><p>It goes without saying that water pollution can&rsquo;t be contained by a line on a map. Transboundary pollution is the result of contaminated water from one country spilling into the waters of another. Contamination can result from a disaster&mdash;like an oil spill&mdash;or the slow, downriver creep of industrial, agricultural, or municipal discharge.</p>
+
+<h3 id="common">The Most Common Types of Water Contamination</h3>
+<h4>Agricultural</h4><br /><div class="img-no-float"><div class="media media-element-container media-full_content">
+<figure id="file-22070"
+        class="post-figure image-full-width file file-inline-image file-image-jpeg no-attribution has-caption">
+
+   
+  <noscript class="adaptive-image" data-adaptive-image-breakpoints="768" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_c09gbd_rm_ds_2400.jpg?itok=5dj0gLGQ&quot; width=&quot;634&quot; height=&quot;423&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-768-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_c09gbd_rm_ds_2400.jpg?itok=Z7MnnujR&quot; width=&quot;634&quot; height=&quot;423&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_c09gbd_rm_ds_2400.jpg?itok=Z7MnnujR&quot; width=&quot;634&quot; height=&quot;423&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_c09gbd_rm_ds_2400.jpg?itok=5dj0gLGQ&quot; width=&quot;634&quot; height=&quot;423&quot; alt=&quot;&quot; /&gt;"><img typeof="foaf:Image" src="https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_c09gbd_rm_ds_2400.jpg?itok=5dj0gLGQ" width="634" height="423" alt="" /></noscript>
+
+  
+    <figcaption class="post-figure__caption-wrap">
+              <div class="post-figure__caption post-figure__text">
+        Toxic green algae in Copco Reservoir, northern California        </div>
+      
+      
+              <div class="post-figure__attribution post-figure__text">
+          <p>Aurora Photos/Alamy</p>
+        </div>
+      
+    </figcaption>
+
+  
+</figure>
+</div></div><p>Not only is the agricultural sector the biggest consumer of global freshwater resources, with farming and livestock production using about <a href="http://www.fao.org/docrep/w2598e/w2598e04.htm">70 percent of the earth&rsquo;s surface water supplies</a>, but it&rsquo;s also a serious water polluter. Around the world, agriculture is the <a href="http://www.fao.org/3/a-i7754e.pdf">leading cause</a> of water degradation. In the United States,&nbsp;agricultural pollution is the <a href="https://ofmpub.epa.gov/waters10/attains_nation_cy.control#total_assessed_waters">top source of contamination</a> in rivers and streams, the second-biggest source in wetlands, and the third main source in lakes. It&rsquo;s also a major contributor of contamination to estuaries and groundwater. Every time it rains, fertilizers, pesticides, and animal waste from farms and <a href="https://www.epa.gov/enforcement/national-enforcement-initiative-preventing-animal-waste-contaminating-surface-and-ground">livestock operations</a> wash nutrients and pathogens&mdash;such bacteria and viruses&mdash;into our waterways. <a href="https://www.nrdc.org/experts/ben-chou/water-pollution-grows-healthy-soil-comes-rescue">Nutrient pollution</a>, caused by excess nitrogen and phosphorus in water or air, is the number-one threat to water quality worldwide and can <a href="https://www.nrdc.org/experts/ben-chou/water-pollution-grows-healthy-soil-comes-rescue">cause algal blooms</a>, a toxic soup of blue-green algae that can be harmful to people and wildlife.</p>
+
+
+
+<h4>Sewage and wastewater</h4><p>Used water is wastewater. It comes from our sinks, showers, and toilets (think sewage) and from commercial, industrial, and agricultural activities (think metals, solvents, and toxic sludge). The term also includes <a href="https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways">stormwater runoff</a>, which occurs when rainfall carries road salts, oil, grease, chemicals, and debris from impermeable surfaces into our waterways</p><p><a href="http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2017-wastewater-the-untapped-resource/">More than&nbsp;80 percent&nbsp;of the world&rsquo;s wastewater</a> flows back into the environment without being treated or reused, according to the United Nations; in some least-developed countries, the figure tops 95 percent. In the United States, wastewater treatment facilities process about <a href="https://www.epa.gov/nutrientpollution/sources-and-solutions-wastewater">34 billion gallons of wastewater per day</a>. These facilities reduce the amount of pollutants such as pathogens, phosphorus, and nitrogen in sewage, as well as heavy metals and toxic chemicals in industrial waste, before discharging the treated waters back into waterways. That&rsquo;s when all goes well. But according to <a href="https://www.epa.gov/npdes/2004-npdes-cso-report-congress">EPA estimates</a>, our nation&rsquo;s <a href="https://www.nrdc.org/sites/default/files/ttw2014_Sources_of_Beach_Pollution.pdf">aging and easily overwhelmed sewage treatment systems</a> also release more than 850 billion gallons of untreated wastewater each year.</p><h4>Oil pollution</h4><p>Big spills may dominate headlines, but consumers account for the vast majority of oil pollution in our seas, including oil and gasoline that drips from millions of cars and trucks every day. Moreover, nearly half of the <a href="https://worldoceanreview.com/en/wor-3/oil-and-gas/oiling-the-oceans/?ivt=1#ivt-101">estimated 1 million tons of oil</a> that makes its way into marine environments each year comes not from tanker spills but from land-based sources such as factories, farms, and cities. At sea, tanker spills account for about 10 percent of the oil in waters around the world, while regular operations of the shipping industry&mdash;through both <a href="http://www.imo.org/en/OurWork/Environment/PollutionPrevention/OilPollution/Pages/Default.aspx">legal</a> and <a href="https://www.justice.gov/opa/pr/greek-shipping-companies-sentenced-pay-27-million-ocean-pollution">illegal</a> discharges&mdash;contribute about one-third. Oil is also <a href="https://response.restoration.noaa.gov/oil-and-chemical-spills/oil-spills/resources/what-are-natural-oil-seeps.html">naturally released</a> from under the ocean floor through fractures known as seeps.</p><h4>Radioactive substances</h4><p><a href="https://www.nrdc.org/stories/whats-your-drinking-water">Radioactive waste</a> is any pollution that emits radiation beyond what is naturally released by the environment. It&rsquo;s generated by uranium mining, nuclear power plants, and the production and testing of military weapons, as well as by universities and hospitals that use radioactive materials for research and medicine. Radioactive waste can persist in the environment for thousands of years, making disposal a major challenge. Consider the <a href="https://thebulletin.org/predictable-nuclear-accident-hanford10774">decommissioned Hanford nuclear weapons production site</a> in Washington, where the cleanup of 56 million gallons of radioactive waste is expected to cost more than $100 billion and last through 2060. <a href="http://www.stltoday.com/news/local/illinois/investigation-radioactive-leaks-at-illinois-nuclear-plants/article_5afd12ac-e54b-5b20-be98-b72233c1075c.html">Accidentally released</a> or <a href="https://www.nrdc.org/experts/geoffrey-h-fettus/final-resting-place-nuclear-waste">improperly disposed of</a> contaminants threaten groundwater, surface water, and marine resources.</p>
+
+<h3 id="effects">What Are the Effects of Water Pollution?</h3><h4>On human health</h4><p>To put it bluntly: Water pollution kills. In fact, it caused 1.8 million deaths in 2015, according to a study published in <a href="http://www.thelancet.com/commissions/pollution-and-health"><em>The Lancet</em></a>. Contaminated water can also make you ill. Every year, unsafe water sickens about 1 billion people. And low-income communities are disproportionately at risk because their homes are often closest to the most polluting industries.</p><p>Waterborne pathogens, in the form of disease-causing bacteria and viruses from human and animal waste, are a <a href="https://www.theguardian.com/environment/2016/aug/31/cleaning-the-worlds-water-we-are-now-more-polluted-than-we-have-ever-been">major cause of illness from contaminated drinking water</a>. Diseases spread by unsafe water include cholera, giardia, and typhoid. Even in wealthy nations, accidental or illegal releases from sewage treatment facilities, as well as runoff from farms and urban areas, contribute harmful pathogens to waterways. Thousands of people across the United States are sickened every year by <a href="https://www.epa.gov/water-research/understanding-significance-and-potential-growth-pathogens-piped-water-systems">Legionnaires&rsquo; disease</a> (a severe form of pneumonia contracted from water sources like cooling towers and piped water), with cases cropping up from <a href="http://www.latimes.com/local/lanow/la-me-ln-disneyland-legionnaires-20171110-story.html">California&rsquo;s Disneyland</a> to <a href="https://www.nytimes.com/2017/06/16/nyregion/legionnaires-disease-outbreak-upper-east-side.html">Manhattan&rsquo;s Upper East Side</a>.</p><div class="img-no-float"><div class="media media-element-container media-full_content">
+<figure id="file-22067"
+        class="post-figure image-full-width file file-inline-image file-image-jpeg no-attribution has-caption">
+
+   
+  <noscript class="adaptive-image" data-adaptive-image-breakpoints="768" data-adaptive-image-768-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_ap987943478691_rm_ds_2400.jpg?itok=mA0Ycb-k&quot; width=&quot;634&quot; height=&quot;351&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-768-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;768&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_ap987943478691_rm_ds_2400.jpg?itok=BQLBk5WS&quot; width=&quot;634&quot; height=&quot;351&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-retina-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content--retina/public/media-uploads/guide_waterpollution_ap987943478691_rm_ds_2400.jpg?itok=BQLBk5WS&quot; width=&quot;634&quot; height=&quot;351&quot; alt=&quot;&quot; /&gt;" data-adaptive-image-max-img="&lt;img class=&quot;adaptive-image&quot; data-adaptive-image-breakpoint=&quot;max&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_ap987943478691_rm_ds_2400.jpg?itok=mA0Ycb-k&quot; width=&quot;634&quot; height=&quot;351&quot; alt=&quot;&quot; /&gt;"><img typeof="foaf:Image" src="https://assets.nrdc.org/sites/default/files/styles/full_content/public/media-uploads/guide_waterpollution_ap987943478691_rm_ds_2400.jpg?itok=mA0Ycb-k" width="634" height="351" alt="" /></noscript>
+
+  
+    <figcaption class="post-figure__caption-wrap">
+              <div class="post-figure__caption post-figure__text">
+        A woman using bottled water to wash her three-week-old son at their home in Flint, Michigan        </div>
+      
+      
+              <div class="post-figure__attribution post-figure__text">
+          <p>Todd McInturf/The Detroit News/AP</p>
+        </div>
+      
+    </figcaption>
+
+  
+</figure>
+</div></div><p>Meanwhile, <a href="https://www.nrdc.org/sites/default/files/whats-in-your-water-flint-beyond-report.pdf">the plight of residents in Flint, Michigan</a>&mdash;where cost-cutting measures and <a href="https://www.nrdc.org/resources/threats-tap-widespread-violations-water-infrastructure">aging water infrastructure</a> created the recent lead contamination crisis&mdash;offers a stark look at how dangerous chemical and other industrial pollutants in our water can be. The problem goes far beyond Flint and involves much more than lead, as a wide range of chemical pollutants&mdash;from heavy metals such as arsenic and <a href="https://www.nrdc.org/experts/mae-wu/factsheet-limiting-mercury-pollution">mercury</a> to pesticides and <a href="https://www.nrdc.org/onearth/sickening-swill">nitrate fertilizers</a>&mdash;are getting into our water supplies. Once they&rsquo;re ingested, these toxins can cause a host of health issues, from cancer to hormone disruption to altered brain function. Children and pregnant women are particularly at risk.</p><p>Even swimming can pose a risk. Every year, 3.5 million Americans contract health issues such as skin rashes, pinkeye, respiratory infections, and hepatitis from sewage-laden coastal waters, according to EPA estimates.</p><h4>On the environment</h4><p>In order to thrive, healthy ecosystems rely on a complex web of animals, plants, bacteria, and fungi&mdash;all of which interact, directly or indirectly, with each other. Harm to any of these organisms can create a chain effect, imperiling entire aquatic environments.</p><p>When water pollution causes an algal bloom in a lake or marine environment, the proliferation of newly introduced nutrients stimulates plant and algae growth, which in turn reduces oxygen levels in the water. This dearth of oxygen, known as <a href="https://www.nrdc.org/experts/ann-alexander/new-study-algae-pollution-makes-coastal-communities-vulnerable-ocean">eutrophication</a>, suffocates plants and animals and can create &ldquo;<a href="https://www.nrdc.org/onearth/devil-deep-blue-sea">dead zones</a>,&rdquo; where waters are essentially devoid of life. In certain cases, these <a href="https://www.nrdc.org/harmful-algal-blooms">harmful algal blooms</a> can also produce neurotoxins that affect wildlife, from whales to sea turtles.</p>
+
+<div class="embed"><div class="action-promo-wrap">
+  <div class="l-1up-promo clearfix">
+    
+<div class="oneup-promo-image-wrap eq-col">
+      <a href="https://act.nrdc.org/letter/algal-blooms-190925?source=WBSHABPET">
+<div id="file-47067" class="file file-hero-image file-image-jpeg">
+
+  
+  <div class="content">
+    <img typeof="foaf:Image" src="https://assets.nrdc.org/sites/default/files/styles/1up_promo/public/aa-4274-algal-blooms.jpg?itok=L9D3ivPJ" width="450" height="300" alt="" />  </div>
+
+  
+</div>
+</a>  </div>
+
+<div class="oneup-promo-text-wrap eq-col">
+  <div class="oneup-promo-text">
+
+          <h2>Urge your governor to take action to fight harmful algal blooms</h2>
+    
+          <div class="button-style-involved">
+        
+  <h3 class="action-link"><a href="https://act.nrdc.org/letter/algal-blooms-190925?source=WBSHABPET">Take Action</a></h3>
+      </div>
+    
+  </div>
+</div>
+  </div>
+</div>
+</div>
+
+
+<p>Chemicals and heavy metals from industrial and municipal wastewater contaminate waterways as well. These contaminants are toxic to aquatic life&mdash;most often reducing an organism&rsquo;s life span and ability to reproduce&mdash;and make their way up the food chain as predator eats prey. That&rsquo;s how tuna and other big fish <a href="https://www.nrdc.org/stories/smart-seafood-buying-guide">accumulate high quantities of toxins</a>, such as mercury.</p><p>Marine ecosystems are also threatened by <a href="https://www.nrdc.org/stories/ocean-pollution-dirty-facts">marine debris</a>, which can strangle, suffocate, and starve animals. Much of this solid debris, such as plastic bags and soda cans, gets swept into sewers and storm drains and eventually out to sea, turning our oceans into trash soup and sometimes consolidating to form floating <a href="https://oceanservice.noaa.gov/facts/garbagepatch.html">garbage patches</a>. Discarded fishing gear and other types of debris are responsible for harming <a href="https://coast.noaa.gov/states/fast-facts/marine-debris.html">more than 200 different species</a> of marine life.</p><p>Meanwhile, ocean acidification is making it tougher for <a href="https://www.nrdc.org/stories/what-you-need-know-about-ocean-acidification">shellfish and coral</a> to survive. Though they absorb about a quarter of the <a href="https://www.nrdc.org/issues/reduce-ocean-acidification">carbon pollution</a> created each year by burning fossil fuels, oceans are becoming more acidic. This process makes it harder for shellfish and other species to build shells and <a href="https://www.nrdc.org/onearth/biggest-loser-shark-edition">may impact the nervous systems</a> of sharks, clownfish, and other marine life.</p>
+
+<h3 id="prevent">What Can You Do to Prevent Water Pollution?</h3><h4>With your actions</h4><p>It&rsquo;s easy to tsk-tsk the oil company with a leaking tanker, but we&rsquo;re all accountable to some degree for today&rsquo;s water pollution problem. Fortunately, there are <a href="https://www.nrdc.org/stories/6-ways-you-can-help-keep-our-water-clean">some simple ways</a> you can prevent water contamination or at least limit your contribution to it:</p><ul><li><a href="https://www.nrdc.org/stories/10-ways-reduce-plastic-pollution">Reduce your plastic consumption</a> and reuse or recycle plastic when you can.</li><li><a href="https://www.nrdc.org/stories/6-ways-you-can-help-keep-our-water-clean">Properly dispose of</a> chemical cleaners, oils, and non-biodegradable items to keep them from ending up down the drain.</li><li>Maintain your car so it doesn&rsquo;t leak oil, antifreeze, or coolant.</li><li>If you have a yard, consider <a href="https://www.nrdc.org/stories/more-sustainable-and-beautiful-alternatives-grass-lawn">landscaping that reduces runoff</a> and <a href="https://www.nrdc.org/stories/tending-chemical-free-yard">avoid applying pesticides and herbicides</a>.</li><li>If you have a pup, be sure to <a href="https://www.nrdc.org/stories/how-be-eco-friendly-pet-owner">pick up its poop</a>.</li></ul><h4>With your voice</h4><p>One of the most effective ways to stand up for our waters is to speak out in support of the Clean Water Rule, which clarifies the <a href="https://www.nrdc.org/issues/enforce-clean-water-act">Clean Water Act</a>&rsquo;s scope and protects the drinking water of one in three Americans.</p><p>Tell the federal government, the U.S. Army Corps of Engineers, and <a href="https://www.nrdc.org/stories/how-call-congress">your local elected officials</a> that you support the Clean Water Rule. Also, learn how you and those around you can <a href="https://www.nrdc.org/stories/youve-marched-and-signed-petitions-now-what">get involved in the policymaking process</a>. Our public waterways serve every American. We should all have a say in how they&rsquo;re protected.</p></span>
+              <h2 class="center-title related-posts-heading">Related Stories</h2>
+        <div class="l-3up-promo">
+        <div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/mussels-help-keep-watch-pollution-puget-sound"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/ap_1112080575591200.jpg?itok=pHOuW8VS"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Western Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/mussels-help-keep-watch-pollution-puget-sound">Mussels Help Keep Watch on Pollution in Puget Sound</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The humble bivalves, which concentrate everything from heavy metals to cancer drugs in their tissues, provide an ideal way for scientists to monitor nearshore water health.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/alabamas-waterways-wildlife-and-recreation-are-creek-trumps-dirty-water-rule"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/promoimage_1200.jpg?itok=_wG2wQ3B"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/alabamas-waterways-wildlife-and-recreation-are-creek-trumps-dirty-water-rule">Alabama’s Waterways, Wildlife, and Recreation Are Up a Creek with Trump’s “Dirty Water Rule”</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The rollback jeopardizes the streams that flow into the state’s rivers, lakes, and bays, millions of acres of wetlands across the country, and the drinking water supply. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/beach-pollution-101"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/shutterstock_3276131a_1200x630.jpg?itok=q75mGuKl"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/beach-pollution-101">Beach Pollution 101</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Litter, sewage, plastic, and other pollutants do more than just ruin the beauty of the beach. They are closing down coastal areas, destroying marine life, and making people seriously sick.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/new-water-worries-climate-stressed-new-mexico"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/kfnpw6_1200.jpg?itok=YtociDeS"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/new-water-worries-climate-stressed-new-mexico">New Water Worries in Climate-Stressed New Mexico</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Federal rollbacks could leave New Mexico’s limited water dirtier by excluding up to 90 percent of the state’s waterways from protection.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/toxic-forever-chemicals-came-between-farmer-his-cows-and-air-force"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/4-dju_20190201_art_schaap_029_1200x630.jpg?itok=rIHi4mww"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/toxic-forever-chemicals-came-between-farmer-his-cows-and-air-force">Toxic “Forever Chemicals” Came Between This Farmer, His Cows, and the Air Force </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The PFAS-laden firefighting foam used in training exercises at military bases easily slips into groundwater supplies, tainting everything around it. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/trump-administration-wants-set-water-safety-back-50-years"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/3703571153_0ec3331e89_o_1200.jpg?itok=4lgJPPiu"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/trump-administration-wants-set-water-safety-back-50-years">The Trump Administration Wants to Set Water Safety Back 50 Years</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>With their latest rollback, the president and the EPA chief show that they either don’t understand how water pollution works—or simply don’t care.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/needing-water-georgia-stirs-200-year-old-dispute-its-northern-neighbor"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/heffk1_1200.jpg?itok=G40WJ34U"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/needing-water-georgia-stirs-200-year-old-dispute-its-northern-neighbor">Needing Water, Georgia Stirs Up a 200-Year-Old Dispute With Its Northern Neighbor</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>As droughts parch the Southeast, interstate squabbles heat up over the Tennessee River (and the Chattahoochee . . . and the Flint . . . and the Apalachicola). </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/what-can-we-do-fix-drinking-water-problem-america"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/dfreeman_nrdc_waterhearing023._1200jpg.jpg?itok=_vons-ci"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    You Asked, We Answered      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/what-can-we-do-fix-drinking-water-problem-america">What Can We Do to Fix the Drinking Water Problem in America?</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Seth Siegel, author of the new book “Troubled Water: What’s Wrong with What We Drink,” says we must change people’s mind-sets and get to the root of the issue to ensure safe drinking water for everyone.
+</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/freshwater-harmful-algal-blooms-101"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/teaser_c09gbd_rm_1200x630.jpg?itok=NRELKn1E"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/freshwater-harmful-algal-blooms-101">Freshwater Harmful Algal Blooms 101</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Ugly, foul-smelling and sometimes toxic, algal blooms are becoming more common in freshwater ecosystems like rivers, lakes, ponds, and reservoirs. Here’s a look at how excess algae can impact the environment—and human health.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/ohio-river-defines-borders-five-states-its-pollution-doesnt-stop-state-lines"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/istock-616856660_1200.jpg?itok=fXP2aThZ"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Midwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/ohio-river-defines-borders-five-states-its-pollution-doesnt-stop-state-lines">The Ohio River Defines Borders of Five States—But Its Pollution Doesn’t Stop at State Lines</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>In a move that could open the door to industrial waste and interstate squabbles, the Ohio River Valley Water Sanitation Commission is making its water quality standards voluntary. 
+</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/week-138-noaa-v-hurricane-donald"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/tve_sharpiegate_115218000_1200x630.jpg?itok=wWoX-H_o"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/week-138-noaa-v-hurricane-donald">Week 138: NOAA v. Hurricane Donald</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>President Trump revokes the Clean Water Rule and doubles down on his fake weather forecast, while the Bureau of Land Management hitches up its wagons to move west.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/saving-rare-plant-and-rescuing-river"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/9407201400_d4777e2da7_o_1200.jpg?itok=wnA2Ouvq"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/saving-rare-plant-and-rescuing-river">Saving a Rare Plant and Rescuing a River</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The fate of southern Arizona’s embattled San Pedro River could hinge on whether the government acts to protect the nearly extinct Arizona eryngo—and in doing so puts the brakes on groundwater pumping that’s draining the landscape.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/industrial-agricultural-pollution-101"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/istock-979258634_1200.jpg?itok=TG0aoIP5"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/industrial-agricultural-pollution-101">Industrial Agricultural Pollution 101 </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>From fertilizer runoff to methane emissions, large-scale industrial agriculture pollution takes a toll on the environment. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/week-130-trump-takes-his-war-science-road"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/trumpvearth_usdajobs_14187921544_60ebdb01e2_o_1200x630.jpg?itok=fxmQ7uG_"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/week-130-trump-takes-his-war-science-road">Week 130: Trump Takes His War on Science on the Road</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The administration relocates science jobs, refuses to fill others, and tosses a lifeline to polluters (while silencing citizens).</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/week-117-epa-finds-clean-water-act-loophole-and-widens-it"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/trumpvearth_groundwater_556480_1200x630.jpg?itok=YbXeAqkI"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/week-117-epa-finds-clean-water-act-loophole-and-widens-it">Week 117: The EPA Finds a Clean Water Act Loophole . . . and Widens It</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Otherwise, it was just an ordinary week of secret meetings and betrayals of the public interest.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/flooding-and-climate-change-everything-you-need-know"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/teaser_floodguide_36678092442_1200x630.jpg?itok=q2fIWz3O"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/flooding-and-climate-change-everything-you-need-know">Flooding and Climate Change: Everything You Need to Know</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>A growing number of communities—both coastal and inland—are finding themselves underwater. Extreme weather, sea level rise, and other climate change impacts are increasingly to blame. Here’s a look at what links flooding and our warming world. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/weakened-water-protections-will-hurt-beer"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/190322_og_brewers_for_clean_water_mulvihill-teaser_1230x600.jpg?itok=jeeUSHI5"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Voices      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/weakened-water-protections-will-hurt-beer">Weakened Water Protections Will Hurt Beer</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>More than 100 craft breweries from across the country, including Brooklyn Brewery and New Belgium Brewing Company, are joining NRDC to explain why clean water is essential for great-tasting beer.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/green-infrastructure-how-manage-water-sustainable-way"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/gi_emajb9_1200.jpg?itok=sa-XRvO5"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/green-infrastructure-how-manage-water-sustainable-way">Green Infrastructure: How to Manage Water in a Sustainable Way</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>By relying on plants, soil, and natural systems to manage rainfall runoff, green infrastructure tackles urban water woes and boosts climate resilience. Here’s how. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/small-towns-battle-against-radioactive-fracking-waste"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/estill_aerial_1200.jpg?itok=H7Yv32S2"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/small-towns-battle-against-radioactive-fracking-waste">A Small Town’s Battle Against Radioactive Fracking Waste </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>After an illegal dumping of close to 2,000 tons of dangerous sludge and contaminated materials across the street from two schools, a Kentucky community struggles with what to do next.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/hundreds-workers-who-cleaned-countrys-worst-coal-ash-spill-are-now-sick-and-dying"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/coalash1_1200.jpg?itok=4P3TGhkF"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/hundreds-workers-who-cleaned-countrys-worst-coal-ash-spill-are-now-sick-and-dying">Hundreds of Workers Who Cleaned Up the Country’s Worst Coal Ash Spill Are Now Sick and Dying </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Ten years after the disaster at a Tennessee power plant, the cleanup crew is seeking justice. At the same time, the Trump administration is weakening protections for this toxic pollution.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/festering-sanitation-crisis-our-border"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/beach1_1200.jpg?itok=RYfATxQ2"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/festering-sanitation-crisis-our-border">The Festering Sanitation Crisis at Our Border</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>As the Trump administration ratchets up its rhetoric demanding billions for a wall, American communities along the Mexico border are in need of basic services, like reliable sewage treatment.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/2016_2-6-16_flintwater_54_1200.jpg?itok=MneP8m5b"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Guide      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know">Flint Water Crisis: Everything You Need to Know </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>After officials repeatedly dismissed claims that Flint’s water was making people sick, residents took action. Here’s how the lead contamination crisis unfolded—and what we can learn from it. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/new-mexico-isnt-welcoming-nuclear-waste-open-arms"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/lead_1200.jpg?itok=ouyrUF_F"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/new-mexico-isnt-welcoming-nuclear-waste-open-arms">New Mexico Isn’t Welcoming Nuclear Waste With Open Arms</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The problem of how to dispose of nuclear waste has haunted the United States for six decades. It’s now landed on New Mexico’s doorstep.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/her-stand-paddleboard-platform-campaigning-against-plastic-pollution"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/01_lizzie_carr_the_hudson_project_credit_maximusinnyc_teaser.jpg?itok=VSYsPpMV"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Profile      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/her-stand-paddleboard-platform-campaigning-against-plastic-pollution">Her Stand-Up Paddleboard Is a Platform for Campaigning Against Plastic Pollution</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Lizzie Carr is shining a light on what is floating through the world’s waterways, and breaking athletic records along the way. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/how-protect-yourself-lead-contaminated-water"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/personalaction_newarkwater_180419281_1200x630.jpg?itok=gvO6kz4t"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Personal Action      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/how-protect-yourself-lead-contaminated-water">How to Protect Yourself from Lead-Contaminated Water</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Residents of cities like Pittsburgh and Newark continue to face high levels of this toxic metal in their drinking water supplies. Here’s what to do if this crisis affects you. 
+</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/bucking-trump-agenda-court-reinstates-clean-water-rule-26-states"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/water_1200.jpg?itok=nR4fWnl9"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Latest News      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/bucking-trump-agenda-court-reinstates-clean-water-rule-26-states">Bucking Trump Agenda, Court Reinstates Clean Water Rule in 26 States</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Here’s why this environmental and public health win is so important.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/when-clean-waters-not-clear"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/wats27_130224_2400.jpg?itok=kKMV8H6C"
+          alt="Ginger Unzueta/Offset"
+              title="Ginger Unzueta/Offset"
+    >
+
+</div>
+</a>  
+            <span class="type">
+    Policy Primer      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/when-clean-waters-not-clear">When Clean Water’s Not Clear</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The Trump administration wants to open our waterways back up to pollution.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/another-huge-drinking-water-fail-surfaces-michigan"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/waterfilters_1200.jpg?itok=yNWlLKZr"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Midwest Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/another-huge-drinking-water-fail-surfaces-michigan">Another Huge Drinking Water Fail Surfaces in Michigan</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>For years the state has ignored its foamy rivers and water supplies contaminated with chemicals called PFASs.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/nedispatch_cso_483166525_ds_1200x630.jpg?itok=Xvm4vgeJ"
+          alt="Sewer"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Northeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/when-it-rains-it-pours-raw-sewage-new-york-citys-waterways">When It Rains, It Pours Raw Sewage into New York City’s Waterways</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The Big Apple’s combined sewer system is 150 years old—and in desperate need of improvement.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/why-it-so-easy-officials-cover-drinking-water-scandals"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/glasswater.jpg?itok=W-n9cXRP"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/why-it-so-easy-officials-cover-drinking-water-scandals">Why Is it So Easy for Officials to Cover Up Drinking Water Scandals?</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Vague regulations let government officials hide drinking water contamination from the public.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/why-are-our-waters-turning-green"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/wats3_23384405140_5764c83e55_o_900x600.jpg?itok=NIV4SMgu"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    NRDC in Action      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/why-are-our-waters-turning-green">Why Are Our Waters Turning Green?</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Toxic algal blooms are suffocating waterways from the Gulf of Mexico to Lake Erie.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/south-needs-clean-water-rule"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/sedispatchs22_cleanwaterrule_7543355426_7529b9a046_o_ds_900x600.jpg?itok=kLVRtvu2"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/south-needs-clean-water-rule">The South Needs the Clean Water Rule</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>For drinking water, flood control, climate defense, habitat protection, fishing, swimming, and, of course, craft beer.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/6-ways-you-can-help-keep-our-water-clean"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/WATs4_600-03865523a_900x600.jpg?itok=teC3oBAw"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Personal Action      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/6-ways-you-can-help-keep-our-water-clean">6 Ways You Can Help Keep Our Water Clean</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Quick and easy things you can do to reduce water pollution and runoff.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/want-make-america-great-again-dont-let-its-people-breathe-or-drink-poison"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/8153429811_273f8b152b_z.jpg?itok=VklYThkX"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/want-make-america-great-again-dont-let-its-people-breathe-or-drink-poison">Want to Make America Great Again? Don’t Let Its People Breathe or Drink Poison. </a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>The cruel and un-American folly of shutting down the EPA’s environmental justice program.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/truth-about-tap"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/WATs1_000071612671_900x600.jpg?itok=lJe0Lp23"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    You Asked, We Answered      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/truth-about-tap"> The Truth About Tap</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Lots of people think drinking bottled water is safer. Is it?</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/stories/gulf-mexico-sending-out-sos-message-plastic-bottle"><div class="file file-hero-image file-image-png">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/screen_shot_2018-06-04_at_1.11.59_pm.png?itok=lWWnsBiF"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    Southeast Dispatch      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/stories/gulf-mexico-sending-out-sos-message-plastic-bottle">The Gulf of Mexico Is Sending Out an S.O.S.—a Message in a Plastic Bottle</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Thanks to the Mississippi River’s trash stream, the Gulf has some of the highest concentrations of plastic in the world. </p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div><div class="promo-row promo-col eq-col">
+
+
+      <a href="https://www.nrdc.org/onearth/week-79-zinke-ignores-damage-public-lands"><div class="file file-hero-image file-image-jpeg">
+
+  
+  <img src="https://assets.nrdc.org/sites/default/files/styles/3up_promo/public/trumpvearth_zinke_parks_6295464916_577b1958e0_o_1200x630.jpg?itok=PwpZG4RH"
+        >
+
+</div>
+</a>  
+            <span class="type">
+    onEarth Story      </span>
+      
+  <div class="promo-text-wrap">
+
+    
+    
+              <div class="action-link-wrap">
+          
+  <h3 class="action-link"><a href="https://www.nrdc.org/onearth/week-79-zinke-ignores-damage-public-lands">Week 79: Admit National Monuments Are Great? Nah, Says Interior Department.</a></h3>
+        </div>
+      
+              <span class="summary-wrap">
+          <p>Plus, Wheeler ignores factory farm pollution, Zinke ignores damage to wetlands, and Trump ignores public opposition to drilling the Arctic Refuge.</p>
+        </span>
+      
+    
+  </div><!--// promo-text-wrap -->
+
+</div>        </div>
+      
+    </div>
+  </div>
+
+</article>
+          </div>
+
+      
+      
+    </div>
+
+          <div class="region-postscript-content">
+          <div class="region region-postscript">
+    <div id="block-block-1" class="block block-block donate-block first odd">
+
+        <h2 class="block__title block-title">Support Our Work</h2>
+    
+  <form style="display: flex;">
+    <fieldset class="form-radios">
+    <input type="radio" id="id_amount_35" name="amount" value="35" />
+    <label for="id_amount_35">$35</label>
+
+    <input type="radio" id="id_amount_50" name="amount" value="50" />
+    <label for="id_amount_50">$50</label>
+
+    <input type="radio" id="id_amount_75" name="amount" value="75" />
+    <label for="id_amount_75">$75</label>
+
+    <input type="radio" id="id_amount_100" name="amount" value="100" />
+    <label for="id_amount_100">$100</label>
+
+    <input type="radio" id="id_amount_200" name="amount" value="200" />
+    <label for="id_amount_200">$200</label>
+
+    <input type="radio" id="id_amount_other" name="amount_other" value="select" />
+    <label for="id_amount_other">Other</label>
+
+    <input type="hidden" name="page" value="c3-join-us-global" />
+    </fieldset>
+
+    <div class="form-submit" style="margin-left: 10px;">
+        <a href="javascript:void(0);" id="donate" target="_parent">Donate</a>
+    </div>
+</form>
+
+<script>
+(function($, Drupal) {
+
+var attaches = 0;
+
+function attach(context, settings) {
+    if (attaches > 0) {
+        return;
+    }
+    attaches++;
+
+    var $donate = $('#donate');
+    var $amounts = $('input:radio[name=amount]');
+    var $other = $('input:radio[name=amount_other]');
+
+    $amounts.click(function() {
+        $other.prop('checked', false);
+    });
+
+    $other.focus(function() {
+        $other.prop('checked', true);
+        $amounts.prop('checked', false);
+    }).click(function() {
+        $amounts.prop('checked', false);
+    });
+
+    $donate.click(function() {
+        var qs = '?locsrc=nr-glb-ftr-wgt&source=WEBMEM';
+        if ($other.is(':checked')) {
+            qs += '&amount_other=select';
+        } else {
+            var val = $('input[name=amount]:checked').val();
+            if (!!val) {
+                qs += '&amount=' + val;
+            }
+        }
+
+        var url = 'https://act.nrdc.org/donate/one-time/' + qs;
+        window.parent.location = url;
+    });
+}
+
+Drupal.behaviors.nrdcBlockDonate = {
+    attach: attach
+};
+
+})(jQuery, Drupal);
+</script>
+
+</div>
+<div id="block-block-2" class="block block-block block-join-us last even">
+
+        <h2 class="block__title block-title">Join Us</h2>
+    
+  <form role="form" id="actionkit_signup_form" action="https://act.nrdc.org/act/"
+      method="POST" accept-charset="UTF-8">
+
+<div id="signup-form">
+  <div class="step-1">
+    <div class="form-item form-type-textfield form-item-email">
+      <label class="element-invisible" for="id_email">Email 
+        <span class="form-required" title="This field is required.">*</span>
+      </label>
+      <input placeholder="Enter Email" id="id_email" name="email" value="" size="30"
+            maxlength="128" class="form-text required" type="email">
+    </div><div class="form-actions form-wrapper"><input value="Submit" 
+    class="form-submit" type="submit"></div>
+  </div>
+
+  <div class="step-2" style="font-size: 0.9em; color: #16284c; display: none;">
+    Thanks for signing up. You'll receive your first NRDC action alert and update email soon.
+  </div>
+</div>
+
+<input type="hidden" name="page" value="c3-join-us-global" />
+<input type="hidden" name="form_name" value="act" />
+
+ <!-- NRDC Action Alerts and Updates mailing list -->
+<input type="hidden" name="lists" value="3" />
+
+<!-- Insider Newsletter -->
+<input type="hidden" name="lists" value="4" />
+
+<input type="hidden" name="source" value="WBOSGNGLBFTR">
+</form>
+
+<p class="font-size-12 mb-0 mt-8">When you sign up you'll become a member of NRDC's Activist Network. We will keep you informed with the latest alerts and progress reports.</p>
+
+<script>
+(function($, Drupal) {
+
+// for some reason this gets attached twice. for now,
+// creating a barrier to force a single load until the larger
+// issue can be investigated.
+var attaches = 0;
+var submitted = false;
+
+function attach(context, settings) {
+  if (attaches > 0) {
+    return;
+  }
+  attaches++;
+
+  var frame = $('<iframe id="join-us-frame" name="join-us-frame" style="display: none;"></iframe>');
+  $('body').append(frame);
+  $('#actionkit_signup_form').attr('target', 'join-us-frame');
+
+  $('#actionkit_signup_form').submit(function() {
+    submitted = true;
+    if (recordSignUp) {
+      recordSignUp('Page Footer');
+    }
+  });
+
+  var div = $('#signup-form');
+  $('#join-us-frame').on('load', function() {
+    if (submitted) {
+      div.find('.step-1').fadeOut('fast', function() {
+        div.find('.step-2').fadeIn('fast');
+      });
+    }
+  });
+}
+
+Drupal.behaviors.nrdcBlockJoinUs = {
+  attach: attach
+};
+
+})(jQuery, Drupal);
+</script>
+
+
+
+</div>
+  </div>
+      </div>
+    
+  </div><!-- // l-main-wrap -->
+
+  <div class="l-footer-wrap">
+    <footer id="footer" class="l-footer l-container">
+              <div class="l-footer-inner">
+                      <div class="region region-footer-second">
+    <div id="block-menu-menu-footer-menu" class="block block-menu footer-menu first last odd" role="navigation">
+
+      
+  <ul class="menu menu-level-1"><li class="menu__item is-leaf first leaf about-us li-menu-link level-1"><a href="/about" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf careers li-menu-link level-1"><a href="/careers" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf leaf contact-us li-menu-link level-1"><a href="/contact-us" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf media-center li-menu-link level-1"><a href="/media" class="menu__link">Media Center</a></li>
+<li class="menu__item is-leaf leaf policy-library li-menu-link level-1"><a href="/policy-library" class="menu__link">Policy Library</a></li>
+<li class="menu__item is-leaf leaf sitemap li-menu-link level-1"><a href="/sitemap" class="menu__link">Sitemap</a></li>
+<li class="menu__item is-leaf leaf en-espa-ol li-menu-link level-1"><a href="/node/24354" class="menu__link">En Español</a></li>
+<li class="menu__item is-leaf last leaf privacy-policy li-menu-link level-1"><a href="/privacy-policy" class="menu__link">Privacy Policy</a></li>
+</ul>
+</div>
+  </div>
+            <div class="region region-footer-third">
+    <div id="block-nrdc-blocks-nrdc-footer-social--2" class="block block-nrdc-blocks footer-social last even">
+
+        <span class="footer-social-title">Follow Us</span>
+    
+  
+<div class="block-region">
+  <ul class="footer-social-list inline-list">
+
+    <li class="social-icon">
+      <a href="https://twitter.com/nrdc" target="_blank">
+        <span class="icon-text">Twitter</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="17" viewBox="0 0 21 17"><title id="title" lang="en">Twitter</title><g fill="none"><g fill="#00b6f0"><path d="M21 2C20.4 2.9 19.7 3.6 18.8 4.2 18.9 5.6 18.7 6.9 18.3 8.2 18 9.4 17.5 10.5 16.8 11.5 16.1 12.6 15.3 13.5 14.4 14.3 13.4 15.1 12.3 15.8 10.9 16.3 9.6 16.8 8.1 17 6.6 17 4.2 17 2 16.4 0 15.1 0.3 15.1 0.7 15.1 1 15.1 3 15.1 4.8 14.5 6.4 13.3 5.5 13.3 4.6 13 3.9 12.4 3.2 11.9 2.6 11.2 2.4 10.3 2.7 10.4 2.9 10.4 3.2 10.4 3.6 10.4 3.9 10.3 4.3 10.2 3.3 10.1 2.5 9.5 1.8 8.8 1.2 8 0.8 7 0.9 6L0.9 6C1.4 6.3 2.1 6.5 2.8 6.5 2.2 6.1 1.7 5.6 1.4 5 1.1 4.4 0.9 3.7 0.9 2.9 0.9 2.2 1.1 1.4 1.5 0.8 2.5 2.1 3.9 3.2 5.4 4 6.9 4.7 8.6 5.2 10.3 5.3 10.3 4.9 10.2 4.6 10.2 4.3 10.2 3.1 10.7 2.1 11.5 1.3 12.3 0.4 13.3 0 14.5 0 15.8 0 16.8 0.5 17.7 1.4 18.6 1.2 19.6 0.8 20.4 0.3 20.1 1.3 19.5 2.1 18.5 2.7 19.4 2.6 20.2 2.4 21 2Z"/></g></g></svg>
+      </a>
+    </li>
+
+    <li class="social-icon">
+     <a href="https://www.facebook.com/nrdc.org" target="_blank">
+       <span class="icon-text">Facebook</span>
+     <svg xmlns="http://www.w3.org/2000/svg" width="9" height="17" viewBox="0 0 9 17"><title id="title" lang="en">Facebook</title><g fill="none"><g fill="#00b6f0"><path d="M9 0.1L9 2.8 7.4 2.8C6.8 2.8 6.4 2.9 6.2 3.2 5.9 3.4 5.8 3.8 5.8 4.3L5.8 6.2 8.9 6.2 8.5 9.2 5.8 9.2 5.8 17 2.7 17 2.7 9.2 0 9.2 0 6.2 2.7 6.2 2.7 4C2.7 2.7 3 1.7 3.7 1 4.5 0.3 5.4 0 6.6 0 7.6 0 8.4 0 9 0.1Z"/></g></g></svg>
+     </a>
+    </li>
+
+    <li class="social-icon">
+      <a href="https://www.youtube.com/user/NRDCflix" target="_blank">
+        <span class="icon-text">YouTube</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 18"><title id="title" lang="en">YouTube</title><g fill="none"><path d="M9.5 12.6L16 9.2 9.5 5.8 9.5 12.6 9.5 12.6ZM12 0.9C13.5 0.9 14.9 0.9 16.3 1 17.7 1 18.8 1.1 19.4 1.1L20.4 1.2C20.4 1.2 20.5 1.2 20.6 1.2 20.8 1.2 20.9 1.2 20.9 1.2 21 1.2 21.1 1.3 21.2 1.3 21.4 1.3 21.5 1.3 21.6 1.4 21.7 1.4 21.9 1.5 22 1.6 22.1 1.6 22.3 1.7 22.4 1.8 22.6 2 22.8 2.2 23 2.4 23.1 2.6 23.2 2.8 23.4 3.2 23.6 3.6 23.7 4.1 23.8 4.6 23.8 5.2 23.9 5.8 23.9 6.4 24 7.1 24 7.6 24 8L24 10.3C24 11.6 23.9 13 23.8 14.3 23.7 14.7 23.6 15.2 23.4 15.6 23.3 16 23.1 16.3 23 16.4L22.8 16.7C22.7 16.8 22.6 16.9 22.4 17 22.3 17.1 22.1 17.2 22 17.3 21.9 17.3 21.8 17.4 21.6 17.4 21.5 17.5 21.4 17.5 21.2 17.5L20.9 17.6C20.7 17.6 20.6 17.7 20.4 17.7 18.2 17.8 15.4 17.9 12 17.9 10.4 17.9 8.8 17.9 7.2 17.8 5.8 17.8 4.9 17.8 4.5 17.7L3.8 17.7 3.4 17.6C3.1 17.6 2.9 17.5 2.6 17.5 2.4 17.4 2.2 17.3 1.9 17.2 1.6 17 1.2 16.7 1 16.4 0.9 16.3 0.8 16 0.6 15.6 0.4 15.2 0.3 14.7 0.2 14.3 0.2 13.6 0.1 13 0.1 12.4 0 11.9 0 11.4 0 10.9L0 8.5C0 7.2 0.1 5.9 0.2 4.6 0.3 4.1 0.4 3.6 0.6 3.2 0.7 2.8 0.9 2.6 1 2.4L1.2 2.2C1.3 2.1 1.4 1.9 1.6 1.8 1.7 1.7 1.9 1.6 2 1.6 2.1 1.5 2.2 1.4 2.4 1.4 2.5 1.3 2.6 1.3 2.8 1.3 2.9 1.3 3 1.2 3.1 1.2 3.2 1.2 3.3 1.2 3.4 1.2L3.6 1.2C5.8 1 8.6 0.9 12 0.9L12 0.9Z" fill="#00b6f0"/></g></svg>
+      </a>
+    </li>
+
+    <li class="social-icon">
+      <a href="https://www.instagram.com/nrdc_org/" target="_blank">
+        <span class="icon-text">instagram</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><title id="title" lang="en">instagram</title><style>.a{fill:#00b6f0;}</style><defs><polygon points="0 19 19 19 19 0 0 0"/></defs><g fill="none"><mask fill="white"><use xlink:href="#path-1"/></mask><path d="M9.5 0C6.9 0 6.6 0 5.6 0.1 4.6 0.1 3.9 0.3 3.3 0.5 2.7 0.7 2.1 1.1 1.6 1.6 1.1 2.1 0.7 2.7 0.5 3.3 0.3 3.9 0.1 4.6 0.1 5.6 0 6.6 0 6.9 0 9.5 0 12.1 0 12.4 0.1 13.4 0.1 14.4 0.3 15.1 0.5 15.7 0.7 16.3 1.1 16.9 1.6 17.4 2.1 17.9 2.7 18.3 3.3 18.5 3.9 18.7 4.6 18.9 5.6 18.9 6.6 19 6.9 19 9.5 19 12.1 19 12.4 19 13.4 18.9 14.4 18.9 15.1 18.7 15.7 18.5 16.3 18.3 16.9 17.9 17.4 17.4 17.9 16.9 18.3 16.3 18.5 15.7 18.7 15.1 18.9 14.4 18.9 13.4 19 12.4 19 12.1 19 9.5 19 6.9 19 6.6 18.9 5.6 18.9 4.6 18.7 3.9 18.5 3.3 18.3 2.7 17.9 2.1 17.4 1.6 16.9 1.1 16.3 0.7 15.7 0.5 15.1 0.3 14.4 0.1 13.4 0.1 12.4 0 12.1 0 9.5 0ZM9.5 1.7C12 1.7 12.3 1.7 13.3 1.8 14.3 1.8 14.8 2 15.1 2.1 15.5 2.3 15.9 2.5 16.2 2.8 16.5 3.1 16.7 3.5 16.9 3.9 17 4.2 17.2 4.7 17.2 5.7 17.3 6.7 17.3 7 17.3 9.5 17.3 12 17.3 12.3 17.2 13.3 17.2 14.3 17 14.8 16.9 15.1 16.7 15.5 16.5 15.9 16.2 16.2 15.9 16.5 15.5 16.7 15.1 16.9 14.8 17 14.3 17.2 13.3 17.2 12.3 17.3 12 17.3 9.5 17.3 7 17.3 6.7 17.3 5.7 17.2 4.7 17.2 4.2 17 3.9 16.9 3.5 16.7 3.1 16.5 2.8 16.2 2.5 15.9 2.3 15.5 2.1 15.1 2 14.8 1.8 14.3 1.8 13.3 1.7 12.3 1.7 12 1.7 9.5 1.7 7 1.7 6.7 1.8 5.7 1.8 4.7 2 4.2 2.1 3.9 2.3 3.5 2.5 3.1 2.8 2.8 3.1 2.5 3.5 2.3 3.9 2.1 4.2 2 4.7 1.8 5.7 1.8 6.7 1.7 7 1.7 9.5 1.7L9.5 1.7Z" mask="url(#mask-2)" class="a"/><path d="M9.5 12.7C7.8 12.7 6.3 11.2 6.3 9.5 6.3 7.8 7.8 6.3 9.5 6.3 11.2 6.3 12.7 7.8 12.7 9.5 12.7 11.2 11.2 12.7 9.5 12.7ZM9.5 4.6C6.8 4.6 4.6 6.8 4.6 9.5 4.6 12.2 6.8 14.4 9.5 14.4 12.2 14.4 14.4 12.2 14.4 9.5 14.4 6.8 12.2 4.6 9.5 4.6L9.5 4.6Z" class="a"/><path d="M15.7 4.4C15.7 5.1 15.2 5.6 14.6 5.6 13.9 5.6 13.4 5.1 13.4 4.4 13.4 3.8 13.9 3.3 14.6 3.3 15.2 3.3 15.7 3.8 15.7 4.4" class="a"/></g></svg>
+      </a>
+    </li>
+
+     <li class="social-icon">
+      <a href="/rss.xml" target="_blank">
+        <span class="icon-text">RSS</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"><title id="title" lang="en">RSS Feed</title><g fill="none"><g fill="#00b6f0"><path d="M4.6 14.6C4.6 15.3 4.4 15.9 3.9 16.3 3.5 16.7 2.9 17 2.3 17 1.7 17 1.1 16.7 0.7 16.3 0.2 15.9 0 15.3 0 14.6 0 14 0.2 13.5 0.7 13 1.1 12.6 1.7 12.3 2.3 12.3 2.9 12.3 3.5 12.6 3.9 13 4.4 13.5 4.6 14 4.6 14.6L4.6 14.6ZM10.8 16.1C10.8 16.3 10.7 16.6 10.6 16.7 10.4 16.9 10.2 17 10 17L8.4 17C8.2 17 8 16.9 7.9 16.8 7.7 16.6 7.6 16.5 7.6 16.3 7.5 14.4 6.7 12.8 5.4 11.5 4.1 10.2 2.5 9.5 0.7 9.3 0.5 9.3 0.3 9.2 0.2 9.1 0.1 8.9 0 8.8 0 8.6L0 6.9C0 6.7 0.1 6.5 0.3 6.4 0.4 6.2 0.6 6.2 0.8 6.2L0.8 6.2C2.1 6.3 3.4 6.6 4.5 7.1 5.7 7.7 6.7 8.4 7.6 9.3 8.5 10.2 9.3 11.3 9.8 12.4 10.4 13.6 10.7 14.9 10.8 16.1L10.8 16.1ZM17 16.2C17 16.4 16.9 16.6 16.7 16.7 16.6 16.9 16.4 17 16.2 17L14.5 17C14.3 17 14.1 16.9 13.9 16.7 13.8 16.6 13.7 16.4 13.7 16.2 13.6 14.5 13.2 12.9 12.5 11.3 11.8 9.8 10.8 8.4 9.7 7.3 8.5 6.1 7.2 5.2 5.6 4.5 4.1 3.8 2.4 3.4 0.7 3.3 0.5 3.2 0.3 3.2 0.2 3 0.1 2.9 0 2.7 0 2.5L0 0.8C0 0.5 0.1 0.4 0.2 0.2 0.4 0.1 0.6 0 0.8 0L0.8 0C2.9 0.1 4.9 0.6 6.8 1.4 8.8 2.3 10.5 3.5 12 5 13.5 6.5 14.7 8.2 15.5 10.1 16.4 12 16.9 14.1 17 16.2Z"/></g></g></svg>
+      </a>
+    </li>
+
+  </ul>
+</div>
+
+</div>
+  </div>
+        </div>
+          </footer>
+  </div><!-- // l-footer-wrap -->
+
+  <div class="l-copyright-wrap">
+    <div id="copyright" class="l-copyright l-container">
+      <p>
+        &copy; Natural Resources Defense Council 2020        <a href="/privacy-policy">Privacy Policy</a>
+        <a href="/state-disclosures">State Disclosures</a>
+      </p>
+    </div>
+  </div><!--// l-copyright-wrap -->
+
+</div><!-- // l-page -->
+<script src="https://www.nrdc.org/sites/default/files/js/js_MLVgtzZ1ORq9krYqkeOsRay6ou_T-0QZytivuM9tTT8.js"></script>
+
+</body>
+</html>
